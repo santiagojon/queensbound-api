@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "103rd Street/Corona Plaza - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "name": "33rd Street - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 3,
+    "name": "40th Street - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 4,
+    "name": "46th Street - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 5,
+    "name": "52nd Street - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 6,
+    "name": "69th Street - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 8,
+    "name": "82nd Street - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 9,
+    "name": "90th Street",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Main Street - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Hunters Point - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Junction Blvd - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Vernon Blvd",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Woodside/61st Street - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 16,
+    "name": "30th Avenue - N",
+    "subway_line_ids": [
+      2
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 17,
+    "name": "36th Avenue - N",
+    "subway_line_ids": [
+      2
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 18,
+    "name": "39th Avenue - N",
+    "subway_line_ids": [
+      2
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Broadway - N",
+    "subway_line_ids": [
+      2
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Queensboro Plaza - N",
+    "subway_line_ids": [
+      2
+    ],
+    "artwork_ids": [
+      2
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Jackson Heights/Roosevelt Avenue - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      4
+    ]
+  },
+  {
+    "id": 7,
+    "name": "74th Street - 7",
+    "subway_line_ids": [
+      1
+    ],
+    "artwork_ids": [
+      4
+    ]
+  }
+]

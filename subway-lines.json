@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "7 Line",
+    "color": "#b934ad",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 2,
+    "name": "N Line",
+    "color": "#fccc0a",
+    "description": "Lorem"
+  },
+  {
+    "id": 3,
+    "name": "W Line",
+    "color": "#fccc0a",
+    "description": "Lorem"
+  },
+  {
+    "id": 4,
+    "name": "R Line",
+    "color": "#fccc0a",
+    "description": "Lorem"
+  },
+  {
+    "id": 5,
+    "name": "M Line",
+    "color": "#ff6319",
+    "description": "Lorem"
+  },
+  {
+    "id": 6,
+    "name": "F Line",
+    "color": "#ff6319",
+    "description": "Lorem"
+  },
+  {
+    "id": 7,
+    "name": "E Line",
+    "color": "#0039a7",
+    "description": "Lorem"
+  },
+  {
+    "id": 8,
+    "name": "A Line",
+    "color": "#0039a7",
+    "description": "Lorem"
+  },
+  {
+    "id": 9,
+    "name": "J Line",
+    "color": "#996633",
+    "description": "Lorem"
+  },
+  {
+    "id": 10,
+    "name": "Z Line",
+    "color": "#996633",
+    "description": "Lorem"
+  },
+  {
+    "id": 11,
+    "name": "G Line",
+    "color": "#6cbf46",
+    "description": "Lorem"
+  },
+  {
+    "id": 12,
+    "name": "S Line",
+    "color": "#7f8082",
+    "description": "Lorem"
+  },
+  {
+    "id": 13,
+    "name": "Air Train",
+    "color": "#02705f",
+    "description": "Lorem"
+  },
+  {
+    "id": 14,
+    "name": "Shuttle Line",
+    "color": "#7f8082",
+    "description": "Lorem"
+  }
+]
