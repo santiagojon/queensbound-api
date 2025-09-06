@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "searchable_id": null,
+    "title": "Las Carpetas",
+    "description": null,
+    "artist_id": 1
+  },
+  {
+    "id": 2,
+    "searchable_id": null,
+    "title": "La Casa Que Sangra",
+    "description": null,
+    "artist_id": 2
+  },
+  {
+    "id": 3,
+    "searchable_id": "001",
+    "title": "Queensbound",
+    "description": "",
+    "artist_id": 3
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "searchable_id": "011",
+    "title": "Carpetas",
+    "caption": "A 'carpeta'. A file showcasing ...",
+    "artwork_url": "artwork_images/carpeta_1.webp",
+    "project_id": 1,
+    "artist_id": 1
+  },
+  {
+    "id": 2,
+    "searchable_id": "017",
+    "title": "Protest in San Juan",
+    "caption": "People at a protest in the year 19##",
+    "artwork_url": "artwork_images/protest_1.webp",
+    "project_id": 1,
+    "artist_id": 1
+  },
+  {
+    "id": 3,
+    "searchable_id": "69",
+    "title": "La Casa Que Sangra",
+    "caption": "Lorem ipsum",
+    "artwork_url": "artwork_images/la_casa_1_sm46Tu6.png",
+    "project_id": 2,
+    "artist_id": 2
+  },
+  {
+    "id": 4,
+    "searchable_id": "00001",
+    "title": "Hawthorne Court",
+    "caption": "2018",
+    "artwork_url": "artwork_images/jackson_heights_vic_blue_KRTdmhU.png",
+    "project_id": 3,
+    "artist_id": 4
+  }
+]
