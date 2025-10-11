@@ -5,9 +5,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 2,
@@ -15,9 +13,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 3,
@@ -25,9 +21,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 4,
@@ -35,9 +29,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 5,
@@ -45,9 +37,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 6,
@@ -55,9 +45,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 7,
@@ -75,9 +63,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 9,
@@ -85,9 +71,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 10,
@@ -95,9 +79,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 11,
@@ -105,9 +87,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 12,
@@ -125,9 +105,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 14,
@@ -135,9 +113,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 15,
@@ -145,9 +121,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 16,
@@ -155,9 +129,7 @@
     "subway_lines": [
       {"id": 2, "name": "N Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 17,
@@ -165,9 +137,7 @@
     "subway_lines": [
       {"id": 2, "name": "N Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": [3]
   },
   {
     "id": 18,
@@ -175,9 +145,7 @@
     "subway_lines": [
       {"id": 2, "name": "N Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 19,
@@ -185,9 +153,7 @@
     "subway_lines": [
       {"id": 2, "name": "N Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 20,
@@ -195,9 +161,7 @@
     "subway_lines": [
       {"id": 2, "name": "N Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 21,
@@ -205,9 +169,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 22,
@@ -215,9 +177,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 23,
@@ -225,9 +185,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 24,
@@ -235,9 +193,7 @@
     "subway_lines": [
       {"id": 1, "name": "7 Line", "color": "#b934ad"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 25,
@@ -245,9 +201,7 @@
     "subway_lines": [
       {"id": 2, "name": "N Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 26,
@@ -255,9 +209,7 @@
     "subway_lines": [
       {"id": 2, "name": "N Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 27,
@@ -265,9 +217,7 @@
     "subway_lines": [
       {"id": 3, "name": "W Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 28,
@@ -275,9 +225,7 @@
     "subway_lines": [
       {"id": 3, "name": "W Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 29,
@@ -285,9 +233,7 @@
     "subway_lines": [
       {"id": 3, "name": "W Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 30,
@@ -295,9 +241,7 @@
     "subway_lines": [
       {"id": 3, "name": "W Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 31,
@@ -305,9 +249,7 @@
     "subway_lines": [
       {"id": 3, "name": "W Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 32,
@@ -315,9 +257,7 @@
     "subway_lines": [
       {"id": 3, "name": "W Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 33,
@@ -325,9 +265,7 @@
     "subway_lines": [
       {"id": 3, "name": "W Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 34,
@@ -335,9 +273,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 35,
@@ -345,9 +281,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 36,
@@ -355,9 +289,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 37,
@@ -365,9 +297,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 38,
@@ -375,9 +305,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 39,
@@ -385,9 +313,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 40,
@@ -395,9 +321,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 41,
@@ -405,9 +329,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 42,
@@ -415,9 +337,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 43,
@@ -425,9 +345,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 44,
@@ -435,9 +353,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 45,
@@ -445,9 +361,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 46,
@@ -455,9 +369,7 @@
     "subway_lines": [
       {"id": 4, "name": "R Line", "color": "#fccc0a"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 47,
@@ -465,9 +377,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 48,
@@ -475,9 +385,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 49,
@@ -485,9 +393,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 50,
@@ -495,9 +401,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 51,
@@ -505,9 +409,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 52,
@@ -515,9 +417,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 53,
@@ -525,9 +425,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 54,
@@ -535,9 +433,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 55,
@@ -545,9 +441,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 56,
@@ -555,9 +449,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 57,
@@ -565,9 +457,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 58,
@@ -575,9 +465,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 59,
@@ -585,9 +473,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 60,
@@ -595,9 +481,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 61,
@@ -605,9 +489,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 62,
@@ -615,9 +497,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 63,
@@ -625,9 +505,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 64,
@@ -635,9 +513,7 @@
     "subway_lines": [
       {"id": 5, "name": "M Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 65,
@@ -645,9 +521,7 @@
     "subway_lines": [
       {"id": 6, "name": "F Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 66,
@@ -655,9 +529,7 @@
     "subway_lines": [
       {"id": 6, "name": "F Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 67,
@@ -665,9 +537,7 @@
     "subway_lines": [
       {"id": 6, "name": "F Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 68,
@@ -675,9 +545,7 @@
     "subway_lines": [
       {"id": 6, "name": "F Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 69,
@@ -685,9 +553,7 @@
     "subway_lines": [
       {"id": 6, "name": "F Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 70,
@@ -695,9 +561,7 @@
     "subway_lines": [
       {"id": 6, "name": "F Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 71,
@@ -705,9 +569,7 @@
     "subway_lines": [
       {"id": 6, "name": "F Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 72,
@@ -715,9 +577,7 @@
     "subway_lines": [
       {"id": 6, "name": "F Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": [2]
   },
   {
     "id": 73,
@@ -725,9 +585,7 @@
     "subway_lines": [
       {"id": 6, "name": "F Line", "color": "#ff6319"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 74,
@@ -735,9 +593,7 @@
     "subway_lines": [
       {"id": 7, "name": "E Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 75,
@@ -745,9 +601,7 @@
     "subway_lines": [
       {"id": 7, "name": "E Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": [1]
   },
   {
     "id": 76,
@@ -755,9 +609,7 @@
     "subway_lines": [
       {"id": 7, "name": "E Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 77,
@@ -765,9 +617,7 @@
     "subway_lines": [
       {"id": 7, "name": "E Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 78,
@@ -775,9 +625,7 @@
     "subway_lines": [
       {"id": 7, "name": "E Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 79,
@@ -785,9 +633,7 @@
     "subway_lines": [
       {"id": 7, "name": "E Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 80,
@@ -795,9 +641,7 @@
     "subway_lines": [
       {"id": 7, "name": "E Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 81,
@@ -805,9 +649,7 @@
     "subway_lines": [
       {"id": 7, "name": "E Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 82,
@@ -815,9 +657,7 @@
     "subway_lines": [
       {"id": 7, "name": "E Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 83,
@@ -825,9 +665,7 @@
     "subway_lines": [
       {"id": 7, "name": "E Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 84,
@@ -835,9 +673,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 85,
@@ -845,9 +681,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 86,
@@ -855,9 +689,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 87,
@@ -865,9 +697,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 88,
@@ -875,9 +705,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 89,
@@ -885,9 +713,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 90,
@@ -895,9 +721,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 91,
@@ -905,9 +729,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 92,
@@ -915,9 +737,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 93,
@@ -925,9 +745,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 94,
@@ -935,9 +753,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 95,
@@ -945,9 +761,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 96,
@@ -955,9 +769,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 97,
@@ -965,9 +777,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 98,
@@ -975,9 +785,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 99,
@@ -985,9 +793,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 100,
@@ -995,9 +801,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 101,
@@ -1005,9 +809,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 102,
@@ -1015,9 +817,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 103,
@@ -1025,9 +825,7 @@
     "subway_lines": [
       {"id": 8, "name": "A Line", "color": "#0039a7"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 104,
@@ -1035,9 +833,7 @@
     "subway_lines": [
       {"id": 9, "name": "J Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 105,
@@ -1045,9 +841,7 @@
     "subway_lines": [
       {"id": 9, "name": "J Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 106,
@@ -1055,9 +849,7 @@
     "subway_lines": [
       {"id": 9, "name": "J Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 107,
@@ -1065,9 +857,7 @@
     "subway_lines": [
       {"id": 9, "name": "J Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 108,
@@ -1075,9 +865,7 @@
     "subway_lines": [
       {"id": 9, "name": "J Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 109,
@@ -1085,9 +873,7 @@
     "subway_lines": [
       {"id": 9, "name": "J Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 110,
@@ -1095,9 +881,7 @@
     "subway_lines": [
       {"id": 9, "name": "J Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 111,
@@ -1105,9 +889,7 @@
     "subway_lines": [
       {"id": 9, "name": "J Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 112,
@@ -1115,9 +897,7 @@
     "subway_lines": [
       {"id": 10, "name": "Z Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 113,
@@ -1125,9 +905,7 @@
     "subway_lines": [
       {"id": 10, "name": "Z Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 114,
@@ -1135,9 +913,7 @@
     "subway_lines": [
       {"id": 10, "name": "Z Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 115,
@@ -1145,9 +921,7 @@
     "subway_lines": [
       {"id": 10, "name": "Z Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 116,
@@ -1155,9 +929,7 @@
     "subway_lines": [
       {"id": 10, "name": "Z Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 117,
@@ -1165,9 +937,7 @@
     "subway_lines": [
       {"id": 10, "name": "Z Line", "color": "#996633"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 118,
@@ -1175,9 +945,7 @@
     "subway_lines": [
       {"id": 11, "name": "G Line", "color": "#6cbf46"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 119,
@@ -1185,9 +953,7 @@
     "subway_lines": [
       {"id": 11, "name": "G Line", "color": "#6cbf46"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 120,
@@ -1195,9 +961,7 @@
     "subway_lines": [
       {"id": 11, "name": "G Line", "color": "#6cbf46"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 121,
@@ -1205,9 +969,7 @@
     "subway_lines": [
       {"id": 12, "name": "S Line", "color": "#7f8082"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 122,
@@ -1215,9 +977,7 @@
     "subway_lines": [
       {"id": 12, "name": "S Line", "color": "#7f8082"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 123,
@@ -1225,9 +985,7 @@
     "subway_lines": [
       {"id": 12, "name": "S Line", "color": "#7f8082"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 124,
@@ -1235,9 +993,7 @@
     "subway_lines": [
       {"id": 12, "name": "S Line", "color": "#7f8082"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 125,
@@ -1245,9 +1001,7 @@
     "subway_lines": [
       {"id": 12, "name": "S Line", "color": "#7f8082"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 126,
@@ -1255,9 +1009,7 @@
     "subway_lines": [
       {"id": 13, "name": "Air Train", "color": "#02705f"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 127,
@@ -1265,9 +1017,7 @@
     "subway_lines": [
       {"id": 13, "name": "Air Train", "color": "#02705f"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 128,
@@ -1275,9 +1025,7 @@
     "subway_lines": [
       {"id": 13, "name": "Air Train", "color": "#02705f"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 129,
@@ -1285,9 +1033,7 @@
     "subway_lines": [
       {"id": 13, "name": "Air Train", "color": "#02705f"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 130,
@@ -1295,9 +1041,7 @@
     "subway_lines": [
       {"id": 13, "name": "Air Train", "color": "#02705f"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 131,
@@ -1305,9 +1049,7 @@
     "subway_lines": [
       {"id": 13, "name": "Air Train", "color": "#02705f"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 132,
@@ -1315,9 +1057,7 @@
     "subway_lines": [
       {"id": 13, "name": "Air Train", "color": "#02705f"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 133,
@@ -1325,9 +1065,7 @@
     "subway_lines": [
       {"id": 13, "name": "Air Train", "color": "#02705f"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 134,
@@ -1335,9 +1073,7 @@
     "subway_lines": [
       {"id": 13, "name": "Air Train", "color": "#02705f"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   },
   {
     "id": 135,
@@ -1345,8 +1081,6 @@
     "subway_lines": [
       {"id": 13, "name": "Air Train", "color": "#02705f"}
     ],
-    "artwork_ids": [
-      2
-    ]
+    "artwork_ids": []
   }
 ]
