@@ -2,7 +2,7 @@
   {
     "id": 1,
     "searchable_id": "011",
-    "title": "Carpetas",
+    "title": "Carpetas - E",
     "caption": "A 'carpeta'. A file showcasing ...",
     "artwork_url": "artwork_images/carpeta_1.webp",
     "project_id": 1,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "searchable_id": "017",
-    "title": "Protest in San Juan",
+    "title": "Protest in San Juan - F",
     "caption": "People at a protest in the year 19##",
     "artwork_url": "artwork_images/protest_1.webp",
     "project_id": 1,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "searchable_id": "69",
-    "title": "La Casa Que Sangra",
+    "title": "La Casa Que Sangra - N",
     "caption": "Lorem ipsum",
     "artwork_url": "artwork_images/la_casa_1_sm46Tu6.png",
     "project_id": 2,
