@@ -4,7 +4,7 @@
     "searchable_id": "011",
     "title": "Carpetas - E",
     "caption": "A 'carpeta'. A file showcasing ...",
-    "artwork_url": "https://bc3fd244490b8f539fe799e3599004f9.r2.cloudflarestorage.com/queensbound/images/{filename}",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/queensbound/images/{filename}",
     "project_id": 1,
     "artist_id": 1
   },
@@ -13,7 +13,7 @@
     "searchable_id": "017",
     "title": "Protest in San Juan - F",
     "caption": "People at a protest in the year 19##",
-    "artwork_url": "https://bc3fd244490b8f539fe799e3599004f9.r2.cloudflarestorage.com/queensbound/images/{filename}",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/queensbound/images/{filename}",
     "project_id": 1,
     "artist_id": 1
   },
@@ -22,7 +22,7 @@
     "searchable_id": "69",
     "title": "La Casa Que Sangra - N",
     "caption": "Lorem ipsum",
-    "artwork_url": "https://bc3fd244490b8f539fe799e3599004f9.r2.cloudflarestorage.com/queensbound/images/{filename}",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.devqueensbound/images/{filename}",
     "project_id": 2,
     "artist_id": 2
   },
@@ -31,7 +31,7 @@
     "searchable_id": "00001",
     "title": "Hawthorne Court",
     "caption": "2018",
-    "artwork_url": "https://bc3fd244490b8f539fe799e3599004f9.r2.cloudflarestorage.com/queensbound/images/jackson_heights_vic_blue.png",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/queensbound/images/jackson_heights_vic_blue.png",
     "project_id": 3,
     "artist_id": 4
   }
