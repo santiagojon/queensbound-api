@@ -2,8 +2,8 @@
   {
     "id": 1,
     "searchable_id": "011",
-    "title": "Carpetas - E",
-    "caption": "A 'carpeta'. A file showcasing ...",
+    "title": "Trains are More Than Metaphors",
+    "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 1,
     "artist_id": 1
@@ -11,17 +11,17 @@
   {
     "id": 2,
     "searchable_id": "017",
-    "title": "Protest in San Juan - F",
-    "caption": "People at a protest in the year 19##",
+    "title": "Ode To The F",
+    "caption": "2022",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 1,
-    "artist_id": 1
+    "artist_id": 3
   },
   {
     "id": 3,
     "searchable_id": "69",
-    "title": "La Casa Que Sangra - N",
-    "caption": "Lorem ipsum",
+    "title": "Evening Call",
+    "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 2,
     "artist_id": 2
