@@ -3,7 +3,7 @@
     "id": 1,
     "name": "103rd Street/Corona Plaza - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [16]
   },
   {
     "id": 2,
@@ -33,7 +33,7 @@
     "id": 6,
     "name": "69th Street - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [12]
   },
   {
     "id": 7,
@@ -45,19 +45,19 @@
     "id": 8,
     "name": "82nd Street - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [13]
   },
   {
     "id": 9,
     "name": "90th Street",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [14]
   },
   {
     "id": 10,
     "name": "Main Street - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [18]
   },
   {
     "id": 11,
@@ -75,7 +75,7 @@
     "id": 13,
     "name": "Junction Blvd - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [15]
   },
   {
     "id": 14,
@@ -87,7 +87,7 @@
     "id": 15,
     "name": "Woodside/61st Street - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [11]
   },
   {
     "id": 16,
@@ -129,7 +129,7 @@
     "id": 22,
     "name": "Mets-Willets Point - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [17]
   },
   {
     "id": 23,

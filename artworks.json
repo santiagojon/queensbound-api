@@ -88,5 +88,86 @@
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
     "artist_id": 9
+  },
+  {
+    "id": 11,
+    "searchable_id": "00008",
+    "title": "Then, Here, & Will Be",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 10
+  },
+  {
+    "id": 12,
+    "searchable_id": "00009",
+    "title": "Seeing the Apartment at 69th Street",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 11
+  },
+  {
+    "id": 13,
+    "searchable_id": "00010",
+    "title": "Queens Communion",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 12
+  },
+  {
+    "id": 14,
+    "searchable_id": "00011",
+    "title": "Here I Love You New York",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 13
+  },
+  {
+    "id": 15,
+    "searchable_id": "00012",
+    "title": "Stretching Strength",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 14
+  },
+  {
+    "id": 16,
+    "searchable_id": "00013",
+    "title": "Corona (and I'm not talking about the beer)",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 15
+  },
+  {
+    "id": 17,
+    "searchable_id": "00014",
+    "title": "BOOM Mata: A QUEENSBOUND Mash Up",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 16
+  },
+  {
+    "id": 18,
+    "searchable_id": "00015",
+    "title": "Beatitude",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 17
+  },
+  {
+    "id": 19,
+    "searchable_id": "00015",
+    "title": "Additional Artwork",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 18
   }
 ]
