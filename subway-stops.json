@@ -9,25 +9,25 @@
     "id": 2,
     "name": "33rd Street - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [7]
   },
   {
     "id": 3,
     "name": "40th Street - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [8]
   },
   {
     "id": 4,
     "name": "46th Street - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [9]
   },
   {
     "id": 5,
     "name": "52nd Street - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [10]
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "id": 11,
     "name": "Hunters Point - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [6]
   },
   {
     "id": 12,
@@ -81,7 +81,7 @@
     "id": 14,
     "name": "Vernon Blvd - 7",
     "subway_lines": [{ "id": 1, "name": "7 Line", "color": "#b934ad" }],
-    "artwork_ids": []
+    "artwork_ids": [5]
   },
   {
     "id": 15,

@@ -79,5 +79,14 @@
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/audio/2018/Javier%20-%20A%20True%20Account%20Of%20Talking%20To%20The%207%20In%20Sunnyside.mp3",
     "project_id": 3,
     "artist_id": 6
+  },
+  {
+    "id": 10,
+    "searchable_id": "00007",
+    "title": "Next Summer",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 9
   }
 ]
