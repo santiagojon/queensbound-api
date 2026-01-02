@@ -71,8 +71,6 @@
     "reader": "Rosebud Ben-Oni",
     "reader_title": "Author",
     "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7426324,
-    "longitude": -73.9535052,
     "is_underground": false
   },
   {
@@ -90,8 +88,6 @@
     "reader": "KC Trommer",
     "reader_title": "Author",
     "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7424564,
-    "longitude": -73.9484489,
     "is_underground": false
   },
   {
@@ -109,8 +105,6 @@
     "reader": "Safia Jama",
     "reader_title": "Author",
     "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.744568,
-    "longitude": -73.9314574,
     "is_underground": false
   },
   {
@@ -127,10 +121,7 @@
     "searchable_code": "0000000000005",
     "reader": "Paolo Javier",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7438128,
-    "longitude": -73.9243948,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 9,
@@ -146,10 +137,7 @@
     "searchable_code": "0000000000006",
     "reader": "KC Trommer",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7430292,
-    "longitude": -73.9185007,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 10,
@@ -165,10 +153,7 @@
     "searchable_code": "0000000000001",
     "reader": "Nicole Haroutunian",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7440788,
-    "longitude": -73.9125264,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 11,
@@ -184,10 +169,7 @@
     "searchable_code": "0000000000002",
     "reader": "Jimena Lucero",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7455747,
-    "longitude": -73.9028312,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 12,
@@ -203,10 +185,7 @@
     "searchable_code": "0000000000001-ES",
     "reader": "Jackie Sherbow",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7462404,
-    "longitude": -73.8962105,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 4,
@@ -222,10 +201,7 @@
     "searchable_code": "0000000000001",
     "reader": "Maria Terrone",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7467573,
-    "longitude": -73.8912129,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 13,
@@ -241,10 +217,7 @@
     "searchable_code": "0000000000006-ES",
     "reader": "Vikas K. Menon",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7476253,
-    "longitude": -73.883973,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 14,
@@ -260,10 +233,7 @@
     "searchable_code": "0000000000006-ES",
     "reader": "Vikas K. Menon",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7483893,
-    "longitude": -73.8765308,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 15,
@@ -279,10 +249,7 @@
     "searchable_code": "0000000000001-ES",
     "reader": "Nadia Q. Ahmad",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7491549,
-    "longitude": -73.8694384,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 16,
@@ -298,10 +265,7 @@
     "searchable_code": "0000000000001-ES",
     "reader": "Bushra Rehman",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7498643,
-    "longitude": -73.8627674,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 17,
@@ -317,10 +281,7 @@
     "searchable_code": "0000000000001-ES",
     "reader": "Adam DeGraff and Tyler Burba",
     "reader_title": "Authors",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7544642,
-    "longitude": -73.8458246,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   },
   {
     "id": 18,
@@ -336,9 +297,6 @@
     "searchable_code": "0000000000001-ES",
     "reader": "Joe Gross",
     "reader_title": "Author",
-    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 40.7595379,
-    "longitude": -73.8300974,
-    "is_underground": false
+    "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue"
   }
 ]
