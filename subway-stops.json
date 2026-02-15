@@ -658,7 +658,7 @@
     "svg_name": "21 St. Queensbridge",
     "line_order": 1,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": [],
+    "artwork_ids": [19],
     "latitude": 40.754087,
     "longitude": -73.942296,
     "is_underground": true
