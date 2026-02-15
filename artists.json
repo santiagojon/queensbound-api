@@ -86,7 +86,32 @@
   },
   {
     "id": 18,
-    "name": "Additional Artist",
+    "name": "Pichchenda Bao",
+    "biography": "This is a placeholder for an additional artist bio to match the recent edits in the other files."
+  },
+  {
+    "id": 19,
+    "name": "Malcolm Chang",
+    "biography": "This is a placeholder for an additional artist bio to match the recent edits in the other files."
+  },
+  {
+    "id": 20,
+    "name": "Sweta Srivastava Vikram",
+    "biography": "This is a placeholder for an additional artist bio to match the recent edits in the other files."
+  },
+  {
+    "id": 21,
+    "name": "Bruce E. Whitacre",
+    "biography": "This is a placeholder for an additional artist bio to match the recent edits in the other files."
+  },
+  {
+    "id": 22,
+    "name": "Enzo Silon Surin",
+    "biography": "This is a placeholder for an additional artist bio to match the recent edits in the other files."
+  },
+  {
+    "id": 23,
+    "name": "Shams Momin",
     "biography": "This is a placeholder for an additional artist bio to match the recent edits in the other files."
   }
 ]

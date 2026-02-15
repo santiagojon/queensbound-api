@@ -557,73 +557,111 @@
     "id": 65,
     "name": "179 St - F",
     "svg_name": "179 St",
-    "line_order": 9,
+    "line_order": 10,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": []
+    "artwork_ids": [],
+    "latitude": 40.7126971,
+    "longitude": -73.7835759,
+    "is_underground": true
   },
   {
     "id": 66,
     "name": "169 St - F",
     "svg_name": "169 St",
-    "line_order": 8,
+    "line_order": 9,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": []
+    "artwork_ids": [],
+    "latitude": 40.7103725,
+    "longitude": -73.7939563,
+    "is_underground": true
   },
   {
     "id": 67,
     "name": "Parsons Blvd - F",
     "svg_name": "Parsons Blvd",
-    "line_order": 7,
+    "line_order": 8,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": []
+    "artwork_ids": [],
+    "latitude": 40.7074805,
+    "longitude": -73.8036173,
+    "is_underground": true
   },
   {
     "id": 68,
     "name": "Sutphin Blvd-Archer Av - F",
     "svg_name": "Sutphin Blvd-Archer Av",
-    "line_order": 6,
+    "line_order": 7,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": []
+    "artwork_ids": [],
+    "latitude": 40.7054637,
+    "longitude": -73.8105984,
+    "is_underground": true
   },
   {
     "id": 69,
     "name": "Briarwood - F",
     "svg_name": "Briarwood",
-    "line_order": 5,
+    "line_order": 6,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": []
+    "artwork_ids": [],
+    "latitude": 40.7087083,
+    "longitude": -73.8199852,
+    "is_underground": true
   },
   {
     "id": 70,
     "name": "Kew Gardens-Union Tpke - F",
     "svg_name": "Kew Gardens-Union Tpke",
-    "line_order": 4,
+    "line_order": 5,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": []
+    "artwork_ids": [],
+    "latitude": 40.7141868,
+    "longitude": -73.8310905,
+    "is_underground": true
   },
   {
     "id": 71,
     "name": "75 Av - F",
     "svg_name": "75 Av",
-    "line_order": 3,
+    "line_order": 4,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": []
+    "artwork_ids": [],
+    "latitude": 40.7184304,
+    "longitude": -73.8371674,
+    "is_underground": true
   },
   {
     "id": 72,
     "name": "Forest Hills-71 Av - F",
     "svg_name": "Forest Hills-71 Av",
-    "line_order": 2,
+    "line_order": 3,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": [2]
+    "artwork_ids": [2],
+    "latitude": 40.7214774,
+    "longitude": -73.844688,
+    "is_underground": true
   },
   {
     "id": 73,
     "name": "Jackson Hts-Roosevelt Av - F",
     "svg_name": "Jackson Hts-Roosevelt Av",
+    "line_order": 2,
+    "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
+    "artwork_ids": [],
+    "latitude": 40.7467573,
+    "longitude": -73.8912129,
+    "is_underground": true
+  },
+  {
+    "id": 74.5,
+    "name": "21 St-Queensbridge - F",
+    "svg_name": "21 St. Queensbridge",
     "line_order": 1,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": []
+    "artwork_ids": [],
+    "latitude": 40.754087,
+    "longitude": -73.942296,
+    "is_underground": true
   },
   {
     "id": 74,

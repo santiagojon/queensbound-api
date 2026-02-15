@@ -163,6 +163,60 @@
   },
   {
     "id": 19,
+    "searchable_id": "00016",
+    "title": "In Long Island City",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 18
+  },
+  {
+    "id": 20,
+    "searchable_id": "00017",
+    "title": "Kaplana Chawla Way",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 19
+  },
+  {
+    "id": 21,
+    "searchable_id": "00015",
+    "title": "Love Affair on the F Train",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 20
+  },
+  {
+    "id": 22,
+    "searchable_id": "00015",
+    "title": "A Garuda in Forest Park, A Pantoum",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 21
+  },
+  {
+    "id": 23,
+    "searchable_id": "00015",
+    "title": "Elegy for One Sixty-First Street",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 22
+  },
+  {
+    "id": 24,
+    "searchable_id": "00015",
+    "title": "Queens (English and Bangla)",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 23
+  },
+  {
+    "id": 19,
     "searchable_id": "00015",
     "title": "Additional Artwork",
     "caption": "2024",
