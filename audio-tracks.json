@@ -7,15 +7,13 @@
     "project_title": "Queensbound",
     "subway_stop_id": 72,
     "subway_stop_name": "Forest Hills-71 Av - F",
-    "language": "es",
+    "language": "en",
     "file": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/audio/2020/Hahn%20-%20Ode%20To%20The%20F.mp3",
     "title": "Ode To The F - Kimiko Hahn",
     "searchable_code": "08",
     "reader": "Kimiko Hahn",
     "reader_title": "Author",
     "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\r\n\r\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua\r\n\r\nUt enim ad minim veniam\r\n\r\nQuis nostrud exercitation\r\n\r\nUllamco laboris nisi ut\r\n\r\nAliquip ex ea commodo consequat. \r\n\r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\n\r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nPhotograph by: Victor Blue",
-    "latitude": 4.6,
-    "longitude": 1.2,
     "is_underground": false
   },
   {
