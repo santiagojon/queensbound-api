@@ -570,7 +570,7 @@
     "svg_name": "169 St",
     "line_order": 9,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": [],
+    "artwork_ids": [24],
     "latitude": 40.7103725,
     "longitude": -73.7939563,
     "is_underground": true
@@ -581,7 +581,7 @@
     "svg_name": "Parsons Blvd",
     "line_order": 8,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": [],
+    "artwork_ids": [23],
     "latitude": 40.7074805,
     "longitude": -73.8036173,
     "is_underground": true
@@ -614,7 +614,7 @@
     "svg_name": "Kew Gardens-Union Tpke",
     "line_order": 5,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": [],
+    "artwork_ids": [22],
     "latitude": 40.7141868,
     "longitude": -73.8310905,
     "is_underground": true
@@ -625,7 +625,7 @@
     "svg_name": "75 Av",
     "line_order": 4,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": [],
+    "artwork_ids": [21],
     "latitude": 40.7184304,
     "longitude": -73.8371674,
     "is_underground": true
@@ -647,7 +647,7 @@
     "svg_name": "Jackson Hts-Roosevelt Av",
     "line_order": 2,
     "subway_lines": [{ "id": 6, "name": "F Line", "color": "#ff6319" }],
-    "artwork_ids": [],
+    "artwork_ids": [20],
     "latitude": 40.7467573,
     "longitude": -73.8912129,
     "is_underground": true
