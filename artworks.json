@@ -216,12 +216,345 @@
     "artist_id": 23
   },
   {
-    "id": 19,
+    "id": 25,
     "searchable_id": "00015",
-    "title": "Additional Artwork",
+    "title": "The Empty Train",
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 18
+    "artist_id": 35
+  },
+  {
+    "id": 26,
+    "searchable_id": "00015",
+    "title": "Queens Bohemian Rhapsody and クイーンズ・ボヘミアン・ラプソディ",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 36
+  },
+  {
+    "id": 27,
+    "searchable_id": "00015",
+    "title": "Where the N Train Stops",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 38
+  },
+  {
+    "id": 28,
+    "searchable_id": "00015",
+    "title": "Not Once",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 37
+  },
+  {
+    "id": 29,
+    "searchable_id": "00015",
+    "title": "sonnet as a survival guide for both versions of this city",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 39
+  },
+  {
+    "id": 30,
+    "searchable_id": "00015",
+    "title": "March Conversations with Arlani and अर्लानीसित मार्च कुराकानी",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 40
+  },
+  {
+    "id": 31,
+    "searchable_id": "00015",
+    "title": "For Rob, April 15, 2020",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 41
+  },
+  {
+    "id": 32,
+    "searchable_id": "00015",
+    "title": "Rockaway Beach",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 42
+  },
+  {
+    "id": 33,
+    "searchable_id": "00015",
+    "title": "mott ave",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 43
+  },
+  {
+    "id": 34,
+    "searchable_id": "00015",
+    "title": "The Planes",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 44
+  },
+  {
+    "id": 35,
+    "searchable_id": "00015",
+    "title": "[G]olden Circe Sips Her Coffee",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 24
+  },
+  {
+    "id": 36,
+    "searchable_id": "00015",
+    "title": "Ground Floor, 39th Avenue and Перший поверх, 39-та Авеню",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 25
+  },
+  {
+    "id": 37,
+    "searchable_id": "00015",
+    "title": "Crossing Broadway",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 26
+  },
+  {
+    "id": 38,
+    "searchable_id": "00015",
+    "title": "The Boy Who Flew",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 27
+  },
+  {
+    "id": 39,
+    "searchable_id": "00015",
+    "title": "36th Avenue Poem",
+    "caption": "",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 28
+  },
+  {
+    "id": 40,
+    "searchable_id": "00015",
+    "title": "Cornrows",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 45
+  },
+  {
+    "id": 41,
+    "searchable_id": "00015",
+    "title": "Packed",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 46
+  },
+  {
+    "id": 42,
+    "searchable_id": "00015",
+    "title": "Apatheia",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 47
+  },
+  {
+    "id": 43,
+    "searchable_id": "00015",
+    "title": "Ephphetha",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 48
+  },
+  {
+    "id": 44,
+    "searchable_id": "00015",
+    "title": "In These Streets",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 50
+  },
+  {
+    "id": 45,
+    "searchable_id": "00015",
+    "title": "Psalm of the Garden in the City",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 49
+  },
+  {
+    "id": 46,
+    "searchable_id": "00015",
+    "title": "I Gotta Get Back Home and Tengo Que Volver A Casa",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 51
+  },
+  {
+    "id": 47,
+    "searchable_id": "00015",
+    "title": "As If It Were Real",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 29
+  },
+  {
+    "id": 48,
+    "searchable_id": "00015",
+    "title": "The Visitor: A Warning",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 30
+  },
+  {
+    "id": 49,
+    "searchable_id": "00015",
+    "title": "boulevard of ghosts",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 31
+  },
+  {
+    "id": 50,
+    "searchable_id": "00015",
+    "title": "Diversity Plaza",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 32
+  },
+  {
+    "id": 51,
+    "searchable_id": "00015",
+    "title": "All Possible Fates",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 33
+  },
+  {
+    "id": 52,
+    "searchable_id": "00015",
+    "title": "Reckless Libations",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 34
+  },
+  {
+    "id": 53,
+    "searchable_id": "00015",
+    "title": "ATCQ (A Tribe Called Queens)",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 52
+  },
+  {
+    "id": 54,
+    "searchable_id": "00015",
+    "title": "LASTSTOP LASTSTOP",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 53
+  },
+  {
+    "id": 55,
+    "searchable_id": "00015",
+    "title": "The World to Come",
+    "caption": "2024",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 54
+  },
+  {
+    "id": 56,
+    "searchable_id": "00015",
+    "title": "Liberty Ashes (Keep Rising)",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 55
+  },
+  {
+    "id": 57,
+    "searchable_id": "00015",
+    "title": "Feast",
+    "caption": "2021",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 56
+  },
+  {
+    "id": 58,
+    "searchable_id": "00015",
+    "title": "Below the 7 Train at 33rd and Rawson, A Hammer Falls",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 58
+  },
+  {
+    "id": 59,
+    "searchable_id": "00015",
+    "title": "Before Your Arrival",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 59
+  },
+  {
+    "id": 60,
+    "searchable_id": "00015",
+    "title": "149th Street Notebook",
+    "caption": "2020",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 61
+  },
+  {
+    "id": 61,
+    "searchable_id": "00015",
+    "title": "When They Come for Us on the 7 Train",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 60
+  },
+  {
+    "id": 62,
+    "searchable_id": "00015",
+    "title": "[their spine]",
+    "caption": "2018",
+    "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
+    "project_id": 3,
+    "artist_id": 62
   }
 ]
