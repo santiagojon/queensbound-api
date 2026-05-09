@@ -203,7 +203,7 @@
     "svg_name": "39 Av",
     "line_order": 6,
     "subway_lines": [{ "id": 2, "name": "N Line", "color": "#fccc0a" }],
-    "artwork_ids": [],
+    "artwork_ids": [36],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -214,7 +214,7 @@
     "svg_name": "Broadway",
     "line_order": 4,
     "subway_lines": [{ "id": 2, "name": "N Line", "color": "#fccc0a" }],
-    "artwork_ids": [],
+    "artwork_ids": [37],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -225,7 +225,7 @@
     "svg_name": "Queensboro Plaza",
     "line_order": 7,
     "subway_lines": [{ "id": 2, "name": "N Line", "color": "#fccc0a" }],
-    "artwork_ids": [],
+    "artwork_ids": [38],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -335,7 +335,7 @@
     "svg_name": "36 Av",
     "line_order": 5,
     "subway_lines": [{ "id": 3, "name": "W Line", "color": "#fccc0a" }],
-    "artwork_ids": [],
+    "artwork_ids": [39],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -368,7 +368,7 @@
     "svg_name": "Forest Hills-71 Av",
     "line_order": 13,
     "subway_lines": [{ "id": 4, "name": "R Line", "color": "#fccc0a" }],
-    "artwork_ids": [],
+    "artwork_ids": [48],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -390,7 +390,7 @@
     "svg_name": "Rego Park-63 Dr",
     "line_order": 11,
     "subway_lines": [{ "id": 4, "name": "R Line", "color": "#fccc0a" }],
-    "artwork_ids": [],
+    "artwork_ids": [51],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -401,7 +401,7 @@
     "svg_name": "Woodhaven Blvd",
     "line_order": 10,
     "subway_lines": [{ "id": 4, "name": "R Line", "color": "#fccc0a" }],
-    "artwork_ids": [],
+    "artwork_ids": [52],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -412,7 +412,7 @@
     "svg_name": "Grand Av-Newtown",
     "line_order": 9,
     "subway_lines": [{ "id": 4, "name": "R Line", "color": "#fccc0a" }],
-    "artwork_ids": [],
+    "artwork_ids": [49],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -423,7 +423,7 @@
     "svg_name": "Elmhurst Av",
     "line_order": 8,
     "subway_lines": [{ "id": 4, "name": "R Line", "color": "#fccc0a" }],
-    "artwork_ids": [],
+    "artwork_ids": [47],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -434,7 +434,7 @@
     "svg_name": "Jackson Hts-Roosevelt Av",
     "line_order": 7,
     "subway_lines": [{ "id": 4, "name": "R Line", "color": "#fccc0a" }],
-    "artwork_ids": [],
+    "artwork_ids": [50],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -566,7 +566,7 @@
     "svg_name": "Elmhurst Av",
     "line_order": 13,
     "subway_lines": [{ "id": 5, "name": "M Line", "color": "#ff6319" }],
-    "artwork_ids": [],
+    "artwork_ids": [41],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -577,7 +577,7 @@
     "svg_name": "Jackson Hts-Roosevelt Av",
     "line_order": 12,
     "subway_lines": [{ "id": 5, "name": "M Line", "color": "#ff6319" }],
-    "artwork_ids": [],
+    "artwork_ids": [43],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -599,7 +599,7 @@
     "svg_name": "Northern Blvd",
     "line_order": 10,
     "subway_lines": [{ "id": 5, "name": "M Line", "color": "#ff6319" }],
-    "artwork_ids": [],
+    "artwork_ids": [46],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -676,7 +676,7 @@
     "svg_name": "Forest Ave",
     "line_order": 4,
     "subway_lines": [{ "id": 5, "name": "M Line", "color": "#ff6319" }],
-    "artwork_ids": [],
+    "artwork_ids": [42],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -819,7 +819,7 @@
     "svg_name": "Parsons Blvd",
     "line_order": 10,
     "subway_lines": [{ "id": 7, "name": "E Line", "color": "#0039a7" }],
-    "artwork_ids": [],
+    "artwork_ids": [56],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -863,7 +863,7 @@
     "svg_name": "Kew Gardens-Union Tpke",
     "line_order": 6,
     "subway_lines": [{ "id": 7, "name": "E Line", "color": "#0039a7" }],
-    "artwork_ids": [],
+    "artwork_ids": [55],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -907,7 +907,7 @@
     "svg_name": "Queens Plaza",
     "line_order": 2,
     "subway_lines": [{ "id": 7, "name": "E Line", "color": "#0039a7" }],
-    "artwork_ids": [],
+    "artwork_ids": [57],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -929,7 +929,7 @@
     "svg_name": "Mott Av",
     "line_order": 20,
     "subway_lines": [{ "id": 8, "name": "A Line", "color": "#0039a7" }],
-    "artwork_ids": [],
+    "artwork_ids": [33],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -940,7 +940,7 @@
     "svg_name": "Beach 25 St",
     "line_order": 19,
     "subway_lines": [{ "id": 8, "name": "A Line", "color": "#0039a7" }],
-    "artwork_ids": [],
+    "artwork_ids": [31],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -1006,7 +1006,7 @@
     "svg_name": "Beach 98 St",
     "line_order": 13,
     "subway_lines": [{ "id": 8, "name": "A Line", "color": "#0039a7" }],
-    "artwork_ids": [],
+    "artwork_ids": [32],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -1083,7 +1083,7 @@
     "svg_name": "Rockaway Blvd",
     "line_order": 6,
     "subway_lines": [{ "id": 8, "name": "A Line", "color": "#0039a7" }],
-    "artwork_ids": [],
+    "artwork_ids": [34],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -1094,7 +1094,7 @@
     "svg_name": "88 St",
     "line_order": 5,
     "subway_lines": [{ "id": 8, "name": "A Line", "color": "#0039a7" }],
-    "artwork_ids": [],
+    "artwork_ids": [30],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -1105,7 +1105,7 @@
     "svg_name": "111 St",
     "line_order": 2,
     "subway_lines": [{ "id": 8, "name": "A Line", "color": "#0039a7" }],
-    "artwork_ids": [],
+    "artwork_ids": [29],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -1204,7 +1204,7 @@
     "svg_name": "Woodhaven Blvd",
     "line_order": 3,
     "subway_lines": [{ "id": 9, "name": "J Line", "color": "#996633" }],
-    "artwork_ids": [],
+    "artwork_ids": [28],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -1391,7 +1391,7 @@
     "svg_name": "Jamaica Station",
     "line_order": 1,
     "subway_lines": [{ "id": 13, "name": "Air Train", "color": "#02705f" }],
-    "artwork_ids": [],
+    "artwork_ids": [53],
     "latitude": "",
     "longitude": "",
     "is_underground": true
@@ -1413,7 +1413,7 @@
     "svg_name": "Lefferts Blvd",
     "line_order": 3,
     "subway_lines": [{ "id": 13, "name": "Air Train", "color": "#02705f" }],
-    "artwork_ids": [],
+    "artwork_ids": [54],
     "latitude": "",
     "longitude": "",
     "is_underground": true
