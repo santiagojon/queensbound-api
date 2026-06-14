@@ -1,0 +1,692 @@
+[
+  {
+    "stopId": "1",
+    "stationId": "706",
+    "stationName": "103 St-Corona Plaza"
+  },
+  {
+    "stopId": "2",
+    "stationId": "716",
+    "stationName": "33 St-Rawson St"
+  },
+  {
+    "stopId": "3",
+    "stationId": "715",
+    "stationName": "40 St-Lowery St"
+  },
+  {
+    "stopId": "4",
+    "stationId": "714",
+    "stationName": "46 St-Bliss St"
+  },
+  {
+    "stopId": "5",
+    "stationId": "713",
+    "stationName": "52 St"
+  },
+  {
+    "stopId": "6",
+    "stationId": "711",
+    "stationName": "69 St"
+  },
+  {
+    "stopId": "7",
+    "stationId": "710",
+    "stationName": "74 St-Broadway"
+  },
+  {
+    "stopId": "8",
+    "stationId": "709",
+    "stationName": "82 St-Jackson Hts"
+  },
+  {
+    "stopId": "9",
+    "stationId": "708",
+    "stationName": "90 St-Elmhurst Av"
+  },
+  {
+    "stopId": "10",
+    "stationId": "701",
+    "stationName": "Flushing-Main St"
+  },
+  {
+    "stopId": "11",
+    "stationId": "720",
+    "stationName": "Hunters Point Av"
+  },
+  {
+    "stopId": "12",
+    "stationId": "710",
+    "stationName": "74 St-Broadway"
+  },
+  {
+    "stopId": "13",
+    "stationId": "707",
+    "stationName": "Junction Blvd"
+  },
+  {
+    "stopId": "14",
+    "stationId": "721",
+    "stationName": "Vernon Blvd-Jackson Av"
+  },
+  {
+    "stopId": "15",
+    "stationId": "712",
+    "stationName": "61 St-Woodside"
+  },
+  {
+    "stopId": "16",
+    "stationId": "R04",
+    "stationName": "30 Av"
+  },
+  {
+    "stopId": "17",
+    "stationId": "R06",
+    "stationName": "36 Av"
+  },
+  {
+    "stopId": "18",
+    "stationId": "R08",
+    "stationName": "39 Av-Dutch Kills"
+  },
+  {
+    "stopId": "19",
+    "stationId": "R05",
+    "stationName": "Broadway"
+  },
+  {
+    "stopId": "20",
+    "stationId": "R09",
+    "stationName": "Queensboro Plaza"
+  },
+  {
+    "stopId": "21",
+    "stationId": "705",
+    "stationName": "111 St"
+  },
+  {
+    "stopId": "22",
+    "stationId": "702",
+    "stationName": "Mets-Willets Point"
+  },
+  {
+    "stopId": "23",
+    "stationId": "719",
+    "stationName": "Court Sq"
+  },
+  {
+    "stopId": "24",
+    "stationId": "718",
+    "stationName": "Queensboro Plaza"
+  },
+  {
+    "stopId": "25",
+    "stationId": "R01",
+    "stationName": "Astoria-Ditmars Blvd"
+  },
+  {
+    "stopId": "26",
+    "stationId": "R03",
+    "stationName": "Astoria Blvd"
+  },
+  {
+    "stopId": "27",
+    "stationId": "R01",
+    "stationName": "Astoria-Ditmars Blvd"
+  },
+  {
+    "stopId": "28",
+    "stationId": "R03",
+    "stationName": "Astoria Blvd"
+  },
+  {
+    "stopId": "29",
+    "stationId": "R04",
+    "stationName": "30 Av"
+  },
+  {
+    "stopId": "30",
+    "stationId": "R05",
+    "stationName": "Broadway"
+  },
+  {
+    "stopId": "31",
+    "stationId": "R06",
+    "stationName": "36 Av"
+  },
+  {
+    "stopId": "32",
+    "stationId": "R08",
+    "stationName": "39 Av-Dutch Kills"
+  },
+  {
+    "stopId": "33",
+    "stationId": "R09",
+    "stationName": "Queensboro Plaza"
+  },
+  {
+    "stopId": "34",
+    "stationId": "G08",
+    "stationName": "Forest Hills-71 Av"
+  },
+  {
+    "stopId": "35",
+    "stationId": "G09",
+    "stationName": "67 Av"
+  },
+  {
+    "stopId": "36",
+    "stationId": "G10",
+    "stationName": "63 Dr-Rego Park"
+  },
+  {
+    "stopId": "37",
+    "stationId": "G11",
+    "stationName": "Woodhaven Blvd"
+  },
+  {
+    "stopId": "38",
+    "stationId": "G12",
+    "stationName": "Grand Av-Newtown"
+  },
+  {
+    "stopId": "39",
+    "stationId": "G13",
+    "stationName": "Elmhurst Av"
+  },
+  {
+    "stopId": "40",
+    "stationId": "G14",
+    "stationName": "Jackson Hts-Roosevelt Av"
+  },
+  {
+    "stopId": "41",
+    "stationId": "G15",
+    "stationName": "65 St"
+  },
+  {
+    "stopId": "42",
+    "stationId": "G16",
+    "stationName": "Northern Blvd"
+  },
+  {
+    "stopId": "43",
+    "stationId": "G18",
+    "stationName": "46 St"
+  },
+  {
+    "stopId": "44",
+    "stationId": "G19",
+    "stationName": "Steinway St"
+  },
+  {
+    "stopId": "45",
+    "stationId": "G20",
+    "stationName": "36 St"
+  },
+  {
+    "stopId": "46",
+    "stationId": "G21",
+    "stationName": "Queens Plaza"
+  },
+  {
+    "stopId": "47",
+    "stationId": "G08",
+    "stationName": "Forest Hills-71 Av"
+  },
+  {
+    "stopId": "48",
+    "stationId": "G09",
+    "stationName": "67 Av"
+  },
+  {
+    "stopId": "49",
+    "stationId": "G10",
+    "stationName": "63 Dr-Rego Park"
+  },
+  {
+    "stopId": "50",
+    "stationId": "G11",
+    "stationName": "Woodhaven Blvd"
+  },
+  {
+    "stopId": "51",
+    "stationId": "G12",
+    "stationName": "Grand Av-Newtown"
+  },
+  {
+    "stopId": "52",
+    "stationId": "G13",
+    "stationName": "Elmhurst Av"
+  },
+  {
+    "stopId": "53",
+    "stationId": "G14",
+    "stationName": "Jackson Hts-Roosevelt Av"
+  },
+  {
+    "stopId": "54",
+    "stationId": "G15",
+    "stationName": "65 St"
+  },
+  {
+    "stopId": "55",
+    "stationId": "G16",
+    "stationName": "Northern Blvd"
+  },
+  {
+    "stopId": "56",
+    "stationId": "G18",
+    "stationName": "46 St"
+  },
+  {
+    "stopId": "57",
+    "stationId": "G19",
+    "stationName": "Steinway St"
+  },
+  {
+    "stopId": "58",
+    "stationId": "G20",
+    "stationName": "36 St"
+  },
+  {
+    "stopId": "59",
+    "stationId": "G21",
+    "stationName": "Queens Plaza"
+  },
+  {
+    "stopId": "60",
+    "stationId": "G22",
+    "stationName": "Court Sq"
+  },
+  {
+    "stopId": "61",
+    "stationId": "M01",
+    "stationName": "Middle Village-Metropolitan Av"
+  },
+  {
+    "stopId": "62",
+    "stationId": "M05",
+    "stationName": "Forest Av"
+  },
+  {
+    "stopId": "63",
+    "stationId": "M04",
+    "stationName": "Fresh Pond Rd"
+  },
+  {
+    "stopId": "64",
+    "stationId": "M06",
+    "stationName": "Seneca Av"
+  },
+  {
+    "stopId": "65",
+    "stationId": "F01",
+    "stationName": "Jamaica-179 St"
+  },
+  {
+    "stopId": "66",
+    "stationId": "F02",
+    "stationName": "169 St"
+  },
+  {
+    "stopId": "67",
+    "stationId": "F03",
+    "stationName": "Parsons Blvd"
+  },
+  {
+    "stopId": "68",
+    "stationId": "F04",
+    "stationName": "Sutphin Blvd"
+  },
+  {
+    "stopId": "69",
+    "stationId": "F05",
+    "stationName": "Briarwood"
+  },
+  {
+    "stopId": "70",
+    "stationId": "F06",
+    "stationName": "Kew Gardens-Union Tpke"
+  },
+  {
+    "stopId": "71",
+    "stationId": "F07",
+    "stationName": "75 Av"
+  },
+  {
+    "stopId": "72",
+    "stationId": "G08",
+    "stationName": "Forest Hills-71 Av"
+  },
+  {
+    "stopId": "73",
+    "stationId": "G14",
+    "stationName": "Jackson Hts-Roosevelt Av"
+  },
+  {
+    "stopId": "74",
+    "stationId": "F03",
+    "stationName": "Parsons Blvd"
+  },
+  {
+    "stopId": "74.5",
+    "stationId": "B04",
+    "stationName": "21 St-Queensbridge"
+  },
+  {
+    "stopId": "75",
+    "stationId": "G06",
+    "stationName": "Sutphin Blvd-Archer Av-JFK Airport"
+  },
+  {
+    "stopId": "76",
+    "stationId": "G07",
+    "stationName": "Jamaica-Van Wyck"
+  },
+  {
+    "stopId": "77",
+    "stationId": "F05",
+    "stationName": "Briarwood"
+  },
+  {
+    "stopId": "78",
+    "stationId": "F06",
+    "stationName": "Kew Gardens-Union Tpke"
+  },
+  {
+    "stopId": "79",
+    "stationId": "F07",
+    "stationName": "75 Av"
+  },
+  {
+    "stopId": "80",
+    "stationId": "G08",
+    "stationName": "Forest Hills-71 Av"
+  },
+  {
+    "stopId": "81",
+    "stationId": "G14",
+    "stationName": "Jackson Hts-Roosevelt Av"
+  },
+  {
+    "stopId": "82",
+    "stationId": "G21",
+    "stationName": "Queens Plaza"
+  },
+  {
+    "stopId": "83",
+    "stationId": "G22",
+    "stationName": "Court Sq"
+  },
+  {
+    "stopId": "84",
+    "stationId": "H11",
+    "stationName": "Far Rockaway-Mott Av"
+  },
+  {
+    "stopId": "85",
+    "stationId": "H10",
+    "stationName": "Beach 25 St"
+  },
+  {
+    "stopId": "86",
+    "stationId": "H09",
+    "stationName": "Beach 36 St"
+  },
+  {
+    "stopId": "87",
+    "stationId": "H08",
+    "stationName": "Beach 44 St"
+  },
+  {
+    "stopId": "88",
+    "stationId": "H07",
+    "stationName": "Beach 60 St"
+  },
+  {
+    "stopId": "89",
+    "stationId": "H06",
+    "stationName": "Beach 67 St"
+  },
+  {
+    "stopId": "90",
+    "stationId": "H12",
+    "stationName": "Beach 90 St"
+  },
+  {
+    "stopId": "91",
+    "stationId": "H13",
+    "stationName": "Beach 98 St"
+  },
+  {
+    "stopId": "92",
+    "stationId": "H14",
+    "stationName": "Beach 105 St"
+  },
+  {
+    "stopId": "93",
+    "stationId": "H15",
+    "stationName": "Rockaway Park-Beach 116 St"
+  },
+  {
+    "stopId": "94",
+    "stationId": "H04",
+    "stationName": "Broad Channel"
+  },
+  {
+    "stopId": "95",
+    "stationId": "H03",
+    "stationName": "Howard Beach-JFK Airport"
+  },
+  {
+    "stopId": "96",
+    "stationId": "H01",
+    "stationName": "Aqueduct Racetrack"
+  },
+  {
+    "stopId": "97",
+    "stationId": "H02",
+    "stationName": "Aqueduct-N Conduit Av"
+  },
+  {
+    "stopId": "98",
+    "stationId": "A61",
+    "stationName": "Rockaway Blvd"
+  },
+  {
+    "stopId": "99",
+    "stationId": "A60",
+    "stationName": "88 St"
+  },
+  {
+    "stopId": "100",
+    "stationId": "A64",
+    "stationName": "111 St"
+  },
+  {
+    "stopId": "101",
+    "stationId": "A63",
+    "stationName": "104 St"
+  },
+  {
+    "stopId": "102",
+    "stationId": "A59",
+    "stationName": "80 St"
+  },
+  {
+    "stopId": "103",
+    "stationId": "A65",
+    "stationName": "Ozone Park-Lefferts Blvd"
+  },
+  {
+    "stopId": "104",
+    "stationId": "G05",
+    "stationName": "Jamaica Center-Parsons/Archer"
+  },
+  {
+    "stopId": "105",
+    "stationId": "F04",
+    "stationName": "Sutphin Blvd"
+  },
+  {
+    "stopId": "106",
+    "stationId": "J12",
+    "stationName": "121 St"
+  },
+  {
+    "stopId": "107",
+    "stationId": "J13",
+    "stationName": "111 St"
+  },
+  {
+    "stopId": "108",
+    "stationId": "J14",
+    "stationName": "104 St"
+  },
+  {
+    "stopId": "109",
+    "stationId": "J15",
+    "stationName": "Woodhaven Blvd"
+  },
+  {
+    "stopId": "110",
+    "stationId": "J16",
+    "stationName": "85 St-Forest Pkwy"
+  },
+  {
+    "stopId": "111",
+    "stationId": "J17",
+    "stationName": "75 St-Elderts Ln"
+  },
+  {
+    "stopId": "112",
+    "stationId": "F03",
+    "stationName": "Parsons Blvd"
+  },
+  {
+    "stopId": "113",
+    "stationId": "F04",
+    "stationName": "Sutphin Blvd"
+  },
+  {
+    "stopId": "114",
+    "stationId": "J12",
+    "stationName": "121 St"
+  },
+  {
+    "stopId": "115",
+    "stationId": "J14",
+    "stationName": "104 St"
+  },
+  {
+    "stopId": "116",
+    "stationId": "J15",
+    "stationName": "Woodhaven Blvd"
+  },
+  {
+    "stopId": "117",
+    "stationId": "J17",
+    "stationName": "75 St-Elderts Ln"
+  },
+  {
+    "stopId": "118",
+    "stationId": "G22",
+    "stationName": "Court Sq"
+  },
+  {
+    "stopId": "119",
+    "stationId": "G24",
+    "stationName": "21 St"
+  },
+  {
+    "stopId": "120",
+    "stationId": "721",
+    "stationName": "Vernon Blvd-Jackson Av"
+  },
+  {
+    "stopId": "121",
+    "stationId": "H15",
+    "stationName": "Rockaway Park-Beach 116 St"
+  },
+  {
+    "stopId": "122",
+    "stationId": "H14",
+    "stationName": "Beach 105 St"
+  },
+  {
+    "stopId": "123",
+    "stationId": "H13",
+    "stationName": "Beach 98 St"
+  },
+  {
+    "stopId": "124",
+    "stationId": "H12",
+    "stationName": "Beach 90 St"
+  },
+  {
+    "stopId": "125",
+    "stationId": "H04",
+    "stationName": "Broad Channel"
+  },
+  {
+    "stopId": "126",
+    "qb_name": "Jamaica Station - AirTrain",
+    "flag": "NO_GTFS_MATCH",
+    "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  },
+  {
+    "stopId": "127",
+    "qb_name": "Howard Beach - AirTrain",
+    "flag": "NO_GTFS_MATCH",
+    "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  },
+  {
+    "stopId": "128",
+    "qb_name": "Lefferts Blvd - AirTrain",
+    "flag": "NO_GTFS_MATCH",
+    "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  },
+  {
+    "stopId": "129",
+    "qb_name": "Federal Circle - AirTrain",
+    "flag": "NO_GTFS_MATCH",
+    "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  },
+  {
+    "stopId": "130",
+    "qb_name": "Terminal 1 - AirTrain",
+    "flag": "NO_GTFS_MATCH",
+    "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  },
+  {
+    "stopId": "131",
+    "qb_name": "Terminal 2 - AirTrain",
+    "flag": "NO_GTFS_MATCH",
+    "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  },
+  {
+    "stopId": "132",
+    "qb_name": "Terminal 4 - AirTrain",
+    "flag": "NO_GTFS_MATCH",
+    "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  },
+  {
+    "stopId": "133",
+    "qb_name": "Terminal 5 - AirTrain",
+    "flag": "NO_GTFS_MATCH",
+    "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  },
+  {
+    "stopId": "134",
+    "qb_name": "Terminal 7 - AirTrain",
+    "flag": "NO_GTFS_MATCH",
+    "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  },
+  {
+    "stopId": "135",
+    "qb_name": "Terminal 8 - AirTrain",
+    "flag": "NO_GTFS_MATCH",
+    "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  }
+]

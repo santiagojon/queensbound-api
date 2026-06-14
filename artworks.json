@@ -6,7 +6,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 1,
-    "artist_id": 1
+    "artist_id": 1,
+    "stationId": "G06"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "caption": "2022",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 1,
-    "artist_id": 3
+    "artist_id": 3,
+    "stationId": "G08"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 2,
-    "artist_id": 2
+    "artist_id": 2,
+    "stationId": "R06"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 4
+    "artist_id": 4,
+    "stationId": "710"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 5
+    "artist_id": 5,
+    "stationId": "721"
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "caption": "2015",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 6
+    "artist_id": 6,
+    "stationId": "720"
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 7
+    "artist_id": 7,
+    "stationId": "716"
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/audio/2018/Javier%20-%20A%20True%20Account%20Of%20Talking%20To%20The%207%20In%20Sunnyside.mp3",
     "project_id": 3,
-    "artist_id": 8
+    "artist_id": 8,
+    "stationId": "715"
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/audio/2018/Javier%20-%20A%20True%20Account%20Of%20Talking%20To%20The%207%20In%20Sunnyside.mp3",
     "project_id": 3,
-    "artist_id": 6
+    "artist_id": 6,
+    "stationId": "714"
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 9
+    "artist_id": 9,
+    "stationId": "713"
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 10
+    "artist_id": 10,
+    "stationId": "712"
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 11
+    "artist_id": 11,
+    "stationId": "711"
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 12
+    "artist_id": 12,
+    "stationId": "709"
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 13
+    "artist_id": 13,
+    "stationId": "708"
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 14
+    "artist_id": 14,
+    "stationId": "707"
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 15
+    "artist_id": 15,
+    "stationId": "706"
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 16
+    "artist_id": 16,
+    "stationId": "702"
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 17
+    "artist_id": 17,
+    "stationId": "701"
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 18
+    "artist_id": 18,
+    "stationId": "B04"
   },
   {
     "id": 20,
@@ -177,7 +196,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 19
+    "artist_id": 19,
+    "stationId": "G14"
   },
   {
     "id": 21,
@@ -186,7 +206,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 20
+    "artist_id": 20,
+    "stationId": "F07"
   },
   {
     "id": 22,
@@ -195,7 +216,8 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 21
+    "artist_id": 21,
+    "stationId": "F06"
   },
   {
     "id": 23,
@@ -204,7 +226,8 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 22
+    "artist_id": 22,
+    "stationId": "F03"
   },
   {
     "id": 24,
@@ -213,7 +236,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 23
+    "artist_id": 23,
+    "stationId": "F02"
   },
   {
     "id": 25,
@@ -222,16 +246,18 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 35
+    "artist_id": 35,
+    "stationId": "J14"
   },
   {
     "id": 26,
     "searchable_id": "00015",
-    "title": "Queens Bohemian Rhapsody and クイーンズ・ボヘミアン・ラプソディ",
+    "title": "Queens Bohemian Rhapsody and \u30af\u30a4\u30fc\u30f3\u30ba\u30fb\u30dc\u30d8\u30df\u30a2\u30f3\u30fb\u30e9\u30d7\u30bd\u30c7\u30a3",
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 36
+    "artist_id": 36,
+    "stationId": "J12"
   },
   {
     "id": 27,
@@ -240,7 +266,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 38
+    "artist_id": 38,
+    "stationId": "R03"
   },
   {
     "id": 28,
@@ -249,7 +276,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 37
+    "artist_id": 37,
+    "stationId": "J15"
   },
   {
     "id": 29,
@@ -258,16 +286,18 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 39
+    "artist_id": 39,
+    "stationId": "A64"
   },
   {
     "id": 30,
     "searchable_id": "00015",
-    "title": "March Conversations with Arlani and अर्लानीसित मार्च कुराकानी",
+    "title": "March Conversations with Arlani and \u0905\u0930\u094d\u0932\u093e\u0928\u0940\u0938\u093f\u0924 \u092e\u093e\u0930\u094d\u091a \u0915\u0941\u0930\u093e\u0915\u093e\u0928\u0940",
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 40
+    "artist_id": 40,
+    "stationId": "A60"
   },
   {
     "id": 31,
@@ -276,7 +306,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 41
+    "artist_id": 41,
+    "stationId": "H10"
   },
   {
     "id": 32,
@@ -285,7 +316,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 42
+    "artist_id": 42,
+    "stationId": "H13"
   },
   {
     "id": 33,
@@ -294,7 +326,8 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 43
+    "artist_id": 43,
+    "stationId": "H11"
   },
   {
     "id": 34,
@@ -303,7 +336,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 44
+    "artist_id": 44,
+    "stationId": "A61"
   },
   {
     "id": 35,
@@ -312,16 +346,18 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 24
+    "artist_id": 24,
+    "stationId": "R04"
   },
   {
     "id": 36,
     "searchable_id": "00015",
-    "title": "Ground Floor, 39th Avenue and Перший поверх, 39-та Авеню",
+    "title": "Ground Floor, 39th Avenue and \u041f\u0435\u0440\u0448\u0438\u0439 \u043f\u043e\u0432\u0435\u0440\u0445, 39-\u0442\u0430 \u0410\u0432\u0435\u043d\u044e",
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 25
+    "artist_id": 25,
+    "stationId": "R08"
   },
   {
     "id": 37,
@@ -330,7 +366,8 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 26
+    "artist_id": 26,
+    "stationId": "R05"
   },
   {
     "id": 38,
@@ -339,7 +376,8 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 27
+    "artist_id": 27,
+    "stationId": "R09"
   },
   {
     "id": 39,
@@ -348,7 +386,8 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 28
+    "artist_id": 28,
+    "stationId": "R06"
   },
   {
     "id": 40,
@@ -357,7 +396,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 45
+    "artist_id": 45,
+    "stationId": "unplaced"
   },
   {
     "id": 41,
@@ -366,7 +406,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 46
+    "artist_id": 46,
+    "stationId": "G13"
   },
   {
     "id": 42,
@@ -375,7 +416,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 47
+    "artist_id": 47,
+    "stationId": "M05"
   },
   {
     "id": 43,
@@ -384,7 +426,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 48
+    "artist_id": 48,
+    "stationId": "G14"
   },
   {
     "id": 44,
@@ -393,7 +436,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 50
+    "artist_id": 50,
+    "stationId": "unplaced"
   },
   {
     "id": 45,
@@ -402,7 +446,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 49
+    "artist_id": 49,
+    "stationId": "G14"
   },
   {
     "id": 46,
@@ -411,7 +456,8 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 51
+    "artist_id": 51,
+    "stationId": "G16"
   },
   {
     "id": 47,
@@ -420,7 +466,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 29
+    "artist_id": 29,
+    "stationId": "G13"
   },
   {
     "id": 48,
@@ -429,7 +476,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 30
+    "artist_id": 30,
+    "stationId": "G08"
   },
   {
     "id": 49,
@@ -438,7 +486,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 31
+    "artist_id": 31,
+    "stationId": "G12"
   },
   {
     "id": 50,
@@ -447,7 +496,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 32
+    "artist_id": 32,
+    "stationId": "G14"
   },
   {
     "id": 51,
@@ -456,7 +506,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 33
+    "artist_id": 33,
+    "stationId": "G10"
   },
   {
     "id": 52,
@@ -465,7 +516,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 34
+    "artist_id": 34,
+    "stationId": "G11"
   },
   {
     "id": 53,
@@ -474,7 +526,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 52
+    "artist_id": 52,
+    "stationId": "airtrain-jamaica"
   },
   {
     "id": 54,
@@ -483,7 +536,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 53
+    "artist_id": 53,
+    "stationId": "airtrain-lefferts-blvd"
   },
   {
     "id": 55,
@@ -492,7 +546,8 @@
     "caption": "2024",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 54
+    "artist_id": 54,
+    "stationId": "F06"
   },
   {
     "id": 56,
@@ -501,7 +556,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 55
+    "artist_id": 55,
+    "stationId": "F03"
   },
   {
     "id": 57,
@@ -510,7 +566,8 @@
     "caption": "2021",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 56
+    "artist_id": 56,
+    "stationId": "G21"
   },
   {
     "id": 58,
@@ -519,7 +576,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 58
+    "artist_id": 58,
+    "stationId": "unplaced"
   },
   {
     "id": 59,
@@ -528,7 +586,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 59
+    "artist_id": 59,
+    "stationId": "unplaced"
   },
   {
     "id": 60,
@@ -537,7 +596,8 @@
     "caption": "2020",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 61
+    "artist_id": 61,
+    "stationId": "unplaced"
   },
   {
     "id": 61,
@@ -546,7 +606,8 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 60
+    "artist_id": 60,
+    "stationId": "unplaced"
   },
   {
     "id": 62,
@@ -555,6 +616,7 @@
     "caption": "2018",
     "artwork_url": "https://pub-b2e02568966e460ebfd99515d9298e80.r2.dev/images/jackson_heights_vic_blue.png",
     "project_id": 3,
-    "artist_id": 62
+    "artist_id": 62,
+    "stationId": "unplaced"
   }
 ]
