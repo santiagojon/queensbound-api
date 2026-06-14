@@ -1,0 +1,1229 @@
+[
+  {
+    "id": "701",
+    "name": "Flushing-Main St",
+    "latitude": 40.7596,
+    "longitude": -73.83003,
+    "stopIds": [
+      "701N",
+      "701S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "702",
+    "name": "Mets-Willets Point",
+    "latitude": 40.754622,
+    "longitude": -73.845625,
+    "stopIds": [
+      "702N",
+      "702S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "705",
+    "name": "111 St",
+    "latitude": 40.75173,
+    "longitude": -73.855334,
+    "stopIds": [
+      "705N",
+      "705S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "706",
+    "name": "103 St-Corona Plaza",
+    "latitude": 40.749865,
+    "longitude": -73.8627,
+    "stopIds": [
+      "706N",
+      "706S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "707",
+    "name": "Junction Blvd",
+    "latitude": 40.749145,
+    "longitude": -73.869527,
+    "stopIds": [
+      "707N",
+      "707S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "708",
+    "name": "90 St-Elmhurst Av",
+    "latitude": 40.748408,
+    "longitude": -73.876613,
+    "stopIds": [
+      "708N",
+      "708S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "709",
+    "name": "82 St-Jackson Hts",
+    "latitude": 40.747659,
+    "longitude": -73.883697,
+    "stopIds": [
+      "709N",
+      "709S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "710",
+    "name": "74 St-Broadway",
+    "latitude": 40.746848,
+    "longitude": -73.891394,
+    "stopIds": [
+      "710N",
+      "710S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "711",
+    "name": "69 St",
+    "latitude": 40.746325,
+    "longitude": -73.896403,
+    "stopIds": [
+      "711N",
+      "711S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "712",
+    "name": "61 St-Woodside",
+    "latitude": 40.74563,
+    "longitude": -73.902984,
+    "stopIds": [
+      "712N",
+      "712S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "713",
+    "name": "52 St",
+    "latitude": 40.744149,
+    "longitude": -73.912549,
+    "stopIds": [
+      "713N",
+      "713S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "714",
+    "name": "46 St-Bliss St",
+    "latitude": 40.743132,
+    "longitude": -73.918435,
+    "stopIds": [
+      "714N",
+      "714S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "715",
+    "name": "40 St-Lowery St",
+    "latitude": 40.743781,
+    "longitude": -73.924016,
+    "stopIds": [
+      "715N",
+      "715S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "716",
+    "name": "33 St-Rawson St",
+    "latitude": 40.744587,
+    "longitude": -73.930997,
+    "stopIds": [
+      "716N",
+      "716S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "718",
+    "name": "Queensboro Plaza",
+    "latitude": 40.750582,
+    "longitude": -73.940202,
+    "stopIds": [
+      "718N",
+      "718S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "719",
+    "name": "Court Sq",
+    "latitude": 40.747023,
+    "longitude": -73.945264,
+    "stopIds": [
+      "719N",
+      "719S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "720",
+    "name": "Hunters Point Av",
+    "latitude": 40.742216,
+    "longitude": -73.948916,
+    "stopIds": [
+      "720N",
+      "720S"
+    ],
+    "lineIds": [
+      "seven-line"
+    ]
+  },
+  {
+    "id": "721",
+    "name": "Vernon Blvd-Jackson Av",
+    "latitude": 40.742626,
+    "longitude": -73.953581,
+    "stopIds": [
+      "721N",
+      "721S"
+    ],
+    "lineIds": [
+      "g-line",
+      "seven-line"
+    ]
+  },
+  {
+    "id": "A59",
+    "name": "80 St",
+    "latitude": 40.679371,
+    "longitude": -73.858992,
+    "stopIds": [
+      "A59N",
+      "A59S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "A60",
+    "name": "88 St",
+    "latitude": 40.679843,
+    "longitude": -73.85147,
+    "stopIds": [
+      "A60N",
+      "A60S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "A61",
+    "name": "Rockaway Blvd",
+    "latitude": 40.680429,
+    "longitude": -73.843853,
+    "stopIds": [
+      "A61N",
+      "A61S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "A63",
+    "name": "104 St",
+    "latitude": 40.681711,
+    "longitude": -73.837683,
+    "stopIds": [
+      "A63N",
+      "A63S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "A64",
+    "name": "111 St",
+    "latitude": 40.684331,
+    "longitude": -73.832163,
+    "stopIds": [
+      "A64N",
+      "A64S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "A65",
+    "name": "Ozone Park-Lefferts Blvd",
+    "latitude": 40.685951,
+    "longitude": -73.825798,
+    "stopIds": [
+      "A65N",
+      "A65S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "B04",
+    "name": "21 St-Queensbridge",
+    "latitude": 40.754203,
+    "longitude": -73.942836,
+    "stopIds": [
+      "B04N",
+      "B04S"
+    ],
+    "lineIds": [
+      "f-line"
+    ]
+  },
+  {
+    "id": "F01",
+    "name": "Jamaica-179 St",
+    "latitude": 40.712646,
+    "longitude": -73.783817,
+    "stopIds": [
+      "F01N",
+      "F01S"
+    ],
+    "lineIds": [
+      "f-line"
+    ]
+  },
+  {
+    "id": "F02",
+    "name": "169 St",
+    "latitude": 40.71047,
+    "longitude": -73.793604,
+    "stopIds": [
+      "F02N",
+      "F02S"
+    ],
+    "lineIds": [
+      "f-line"
+    ]
+  },
+  {
+    "id": "F03",
+    "name": "Parsons Blvd",
+    "latitude": 40.707564,
+    "longitude": -73.803326,
+    "stopIds": [
+      "F03N",
+      "F03S"
+    ],
+    "lineIds": [
+      "e-line",
+      "f-line",
+      "z-line"
+    ]
+  },
+  {
+    "id": "F04",
+    "name": "Sutphin Blvd",
+    "latitude": 40.70546,
+    "longitude": -73.810708,
+    "stopIds": [
+      "F04N",
+      "F04S"
+    ],
+    "lineIds": [
+      "f-line",
+      "j-line",
+      "z-line"
+    ]
+  },
+  {
+    "id": "F05",
+    "name": "Briarwood",
+    "latitude": 40.709179,
+    "longitude": -73.820574,
+    "stopIds": [
+      "F05N",
+      "F05S"
+    ],
+    "lineIds": [
+      "e-line",
+      "f-line"
+    ]
+  },
+  {
+    "id": "F06",
+    "name": "Kew Gardens-Union Tpke",
+    "latitude": 40.714441,
+    "longitude": -73.831008,
+    "stopIds": [
+      "F06N",
+      "F06S"
+    ],
+    "lineIds": [
+      "e-line",
+      "f-line"
+    ]
+  },
+  {
+    "id": "F07",
+    "name": "75 Av",
+    "latitude": 40.718331,
+    "longitude": -73.837324,
+    "stopIds": [
+      "F07N",
+      "F07S"
+    ],
+    "lineIds": [
+      "e-line",
+      "f-line"
+    ]
+  },
+  {
+    "id": "G05",
+    "name": "Jamaica Center-Parsons/Archer",
+    "latitude": 40.702147,
+    "longitude": -73.801109,
+    "stopIds": [
+      "G05N",
+      "G05S"
+    ],
+    "lineIds": [
+      "j-line"
+    ]
+  },
+  {
+    "id": "G06",
+    "name": "Sutphin Blvd-Archer Av-JFK Airport",
+    "latitude": 40.700486,
+    "longitude": -73.807969,
+    "stopIds": [
+      "G06N",
+      "G06S"
+    ],
+    "lineIds": [
+      "e-line"
+    ]
+  },
+  {
+    "id": "G07",
+    "name": "Jamaica-Van Wyck",
+    "latitude": 40.702566,
+    "longitude": -73.816859,
+    "stopIds": [
+      "G07N",
+      "G07S"
+    ],
+    "lineIds": [
+      "e-line"
+    ]
+  },
+  {
+    "id": "G08",
+    "name": "Forest Hills-71 Av",
+    "latitude": 40.721691,
+    "longitude": -73.844521,
+    "stopIds": [
+      "G08N",
+      "G08S"
+    ],
+    "lineIds": [
+      "e-line",
+      "f-line",
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G09",
+    "name": "67 Av",
+    "latitude": 40.726523,
+    "longitude": -73.852719,
+    "stopIds": [
+      "G09N",
+      "G09S"
+    ],
+    "lineIds": [
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G10",
+    "name": "63 Dr-Rego Park",
+    "latitude": 40.729846,
+    "longitude": -73.861604,
+    "stopIds": [
+      "G10N",
+      "G10S"
+    ],
+    "lineIds": [
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G11",
+    "name": "Woodhaven Blvd",
+    "latitude": 40.733106,
+    "longitude": -73.869229,
+    "stopIds": [
+      "G11N",
+      "G11S"
+    ],
+    "lineIds": [
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G12",
+    "name": "Grand Av-Newtown",
+    "latitude": 40.737015,
+    "longitude": -73.877223,
+    "stopIds": [
+      "G12N",
+      "G12S"
+    ],
+    "lineIds": [
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G13",
+    "name": "Elmhurst Av",
+    "latitude": 40.742454,
+    "longitude": -73.882017,
+    "stopIds": [
+      "G13N",
+      "G13S"
+    ],
+    "lineIds": [
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G14",
+    "name": "Jackson Hts-Roosevelt Av",
+    "latitude": 40.746644,
+    "longitude": -73.891338,
+    "stopIds": [
+      "G14N",
+      "G14S"
+    ],
+    "lineIds": [
+      "e-line",
+      "f-line",
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G15",
+    "name": "65 St",
+    "latitude": 40.749669,
+    "longitude": -73.898453,
+    "stopIds": [
+      "G15N",
+      "G15S"
+    ],
+    "lineIds": [
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G16",
+    "name": "Northern Blvd",
+    "latitude": 40.752885,
+    "longitude": -73.906006,
+    "stopIds": [
+      "G16N",
+      "G16S"
+    ],
+    "lineIds": [
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G18",
+    "name": "46 St",
+    "latitude": 40.756312,
+    "longitude": -73.913333,
+    "stopIds": [
+      "G18N",
+      "G18S"
+    ],
+    "lineIds": [
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G19",
+    "name": "Steinway St",
+    "latitude": 40.756879,
+    "longitude": -73.92074,
+    "stopIds": [
+      "G19N",
+      "G19S"
+    ],
+    "lineIds": [
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G20",
+    "name": "36 St",
+    "latitude": 40.752039,
+    "longitude": -73.928781,
+    "stopIds": [
+      "G20N",
+      "G20S"
+    ],
+    "lineIds": [
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G21",
+    "name": "Queens Plaza",
+    "latitude": 40.748973,
+    "longitude": -73.937243,
+    "stopIds": [
+      "G21N",
+      "G21S"
+    ],
+    "lineIds": [
+      "e-line",
+      "m-line",
+      "r-line"
+    ]
+  },
+  {
+    "id": "G22",
+    "name": "Court Sq",
+    "latitude": 40.746554,
+    "longitude": -73.943832,
+    "stopIds": [
+      "G22N",
+      "G22S"
+    ],
+    "lineIds": [
+      "e-line",
+      "g-line",
+      "m-line"
+    ]
+  },
+  {
+    "id": "G24",
+    "name": "21 St",
+    "latitude": 40.744065,
+    "longitude": -73.949724,
+    "stopIds": [
+      "G24N",
+      "G24S"
+    ],
+    "lineIds": [
+      "g-line"
+    ]
+  },
+  {
+    "id": "H01",
+    "name": "Aqueduct Racetrack",
+    "latitude": 40.672097,
+    "longitude": -73.835919,
+    "stopIds": [
+      "H01N",
+      "H01S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "H02",
+    "name": "Aqueduct-N Conduit Av",
+    "latitude": 40.668234,
+    "longitude": -73.834058,
+    "stopIds": [
+      "H02N",
+      "H02S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "H03",
+    "name": "Howard Beach-JFK Airport",
+    "latitude": 40.660476,
+    "longitude": -73.830301,
+    "stopIds": [
+      "H03N",
+      "H03S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "H04",
+    "name": "Broad Channel",
+    "latitude": 40.608382,
+    "longitude": -73.815925,
+    "stopIds": [
+      "H04N",
+      "H04S"
+    ],
+    "lineIds": [
+      "a-line",
+      "s-line"
+    ]
+  },
+  {
+    "id": "H06",
+    "name": "Beach 67 St",
+    "latitude": 40.590927,
+    "longitude": -73.796924,
+    "stopIds": [
+      "H06N",
+      "H06S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "H07",
+    "name": "Beach 60 St",
+    "latitude": 40.592374,
+    "longitude": -73.788522,
+    "stopIds": [
+      "H07N",
+      "H07S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "H08",
+    "name": "Beach 44 St",
+    "latitude": 40.592943,
+    "longitude": -73.776013,
+    "stopIds": [
+      "H08N",
+      "H08S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "H09",
+    "name": "Beach 36 St",
+    "latitude": 40.595398,
+    "longitude": -73.768175,
+    "stopIds": [
+      "H09N",
+      "H09S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "H10",
+    "name": "Beach 25 St",
+    "latitude": 40.600066,
+    "longitude": -73.761353,
+    "stopIds": [
+      "H10N",
+      "H10S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "H11",
+    "name": "Far Rockaway-Mott Av",
+    "latitude": 40.603995,
+    "longitude": -73.755405,
+    "stopIds": [
+      "H11N",
+      "H11S"
+    ],
+    "lineIds": [
+      "a-line"
+    ]
+  },
+  {
+    "id": "H12",
+    "name": "Beach 90 St",
+    "latitude": 40.588034,
+    "longitude": -73.813641,
+    "stopIds": [
+      "H12N",
+      "H12S"
+    ],
+    "lineIds": [
+      "a-line",
+      "s-line"
+    ]
+  },
+  {
+    "id": "H13",
+    "name": "Beach 98 St",
+    "latitude": 40.585307,
+    "longitude": -73.820558,
+    "stopIds": [
+      "H13N",
+      "H13S"
+    ],
+    "lineIds": [
+      "a-line",
+      "s-line"
+    ]
+  },
+  {
+    "id": "H14",
+    "name": "Beach 105 St",
+    "latitude": 40.583209,
+    "longitude": -73.827559,
+    "stopIds": [
+      "H14N",
+      "H14S"
+    ],
+    "lineIds": [
+      "a-line",
+      "s-line"
+    ]
+  },
+  {
+    "id": "H15",
+    "name": "Rockaway Park-Beach 116 St",
+    "latitude": 40.580903,
+    "longitude": -73.835592,
+    "stopIds": [
+      "H15N",
+      "H15S"
+    ],
+    "lineIds": [
+      "a-line",
+      "s-line"
+    ]
+  },
+  {
+    "id": "J12",
+    "name": "121 St",
+    "latitude": 40.700492,
+    "longitude": -73.828294,
+    "stopIds": [
+      "J12N",
+      "J12S"
+    ],
+    "lineIds": [
+      "j-line",
+      "z-line"
+    ]
+  },
+  {
+    "id": "J13",
+    "name": "111 St",
+    "latitude": 40.697418,
+    "longitude": -73.836345,
+    "stopIds": [
+      "J13N",
+      "J13S"
+    ],
+    "lineIds": [
+      "j-line"
+    ]
+  },
+  {
+    "id": "J14",
+    "name": "104 St",
+    "latitude": 40.695178,
+    "longitude": -73.84433,
+    "stopIds": [
+      "J14N",
+      "J14S"
+    ],
+    "lineIds": [
+      "j-line",
+      "z-line"
+    ]
+  },
+  {
+    "id": "J15",
+    "name": "Woodhaven Blvd",
+    "latitude": 40.693879,
+    "longitude": -73.851576,
+    "stopIds": [
+      "J15N",
+      "J15S"
+    ],
+    "lineIds": [
+      "j-line",
+      "z-line"
+    ]
+  },
+  {
+    "id": "J16",
+    "name": "85 St-Forest Pkwy",
+    "latitude": 40.692435,
+    "longitude": -73.86001,
+    "stopIds": [
+      "J16N",
+      "J16S"
+    ],
+    "lineIds": [
+      "j-line"
+    ]
+  },
+  {
+    "id": "J17",
+    "name": "75 St-Elderts Ln",
+    "latitude": 40.691324,
+    "longitude": -73.867139,
+    "stopIds": [
+      "J17N",
+      "J17S"
+    ],
+    "lineIds": [
+      "j-line",
+      "z-line"
+    ]
+  },
+  {
+    "id": "M01",
+    "name": "Middle Village-Metropolitan Av",
+    "latitude": 40.711396,
+    "longitude": -73.889601,
+    "stopIds": [
+      "M01N",
+      "M01S"
+    ],
+    "lineIds": [
+      "m-line"
+    ]
+  },
+  {
+    "id": "M04",
+    "name": "Fresh Pond Rd",
+    "latitude": 40.706186,
+    "longitude": -73.895877,
+    "stopIds": [
+      "M04N",
+      "M04S"
+    ],
+    "lineIds": [
+      "m-line"
+    ]
+  },
+  {
+    "id": "M05",
+    "name": "Forest Av",
+    "latitude": 40.704423,
+    "longitude": -73.903077,
+    "stopIds": [
+      "M05N",
+      "M05S"
+    ],
+    "lineIds": [
+      "m-line"
+    ]
+  },
+  {
+    "id": "M06",
+    "name": "Seneca Av",
+    "latitude": 40.702762,
+    "longitude": -73.90774,
+    "stopIds": [
+      "M06N",
+      "M06S"
+    ],
+    "lineIds": [
+      "m-line"
+    ]
+  },
+  {
+    "id": "R01",
+    "name": "Astoria-Ditmars Blvd",
+    "latitude": 40.775036,
+    "longitude": -73.912034,
+    "stopIds": [
+      "R01N",
+      "R01S"
+    ],
+    "lineIds": [
+      "n-line",
+      "w-line"
+    ]
+  },
+  {
+    "id": "R03",
+    "name": "Astoria Blvd",
+    "latitude": 40.770258,
+    "longitude": -73.917843,
+    "stopIds": [
+      "R03N",
+      "R03S"
+    ],
+    "lineIds": [
+      "n-line",
+      "w-line"
+    ]
+  },
+  {
+    "id": "R04",
+    "name": "30 Av",
+    "latitude": 40.766779,
+    "longitude": -73.921479,
+    "stopIds": [
+      "R04N",
+      "R04S"
+    ],
+    "lineIds": [
+      "n-line",
+      "w-line"
+    ]
+  },
+  {
+    "id": "R05",
+    "name": "Broadway",
+    "latitude": 40.76182,
+    "longitude": -73.925508,
+    "stopIds": [
+      "R05N",
+      "R05S"
+    ],
+    "lineIds": [
+      "n-line",
+      "w-line"
+    ]
+  },
+  {
+    "id": "R06",
+    "name": "36 Av",
+    "latitude": 40.756804,
+    "longitude": -73.929575,
+    "stopIds": [
+      "R06N",
+      "R06S"
+    ],
+    "lineIds": [
+      "n-line",
+      "w-line"
+    ]
+  },
+  {
+    "id": "R08",
+    "name": "39 Av-Dutch Kills",
+    "latitude": 40.752882,
+    "longitude": -73.932755,
+    "stopIds": [
+      "R08N",
+      "R08S"
+    ],
+    "lineIds": [
+      "n-line",
+      "w-line"
+    ]
+  },
+  {
+    "id": "R09",
+    "name": "Queensboro Plaza",
+    "latitude": 40.750582,
+    "longitude": -73.940202,
+    "stopIds": [
+      "R09N",
+      "R09S"
+    ],
+    "lineIds": [
+      "n-line",
+      "w-line"
+    ]
+  },
+  {
+    "id": "airtrain-jamaica",
+    "name": "Jamaica",
+    "latitude": 40.70148,
+    "longitude": -73.80842,
+    "stopIds": [
+      "airtrain-jamaica"
+    ],
+    "lineIds": [
+      "air-train"
+    ],
+    "_note": "Hand-crafted ID \u2014 AirTrain JFK is Port Authority-operated, outside MTA GTFS-RT coverage"
+  },
+  {
+    "id": "airtrain-lefferts-blvd",
+    "name": "Lefferts Blvd",
+    "latitude": 40.67775,
+    "longitude": -73.76618,
+    "stopIds": [
+      "airtrain-lefferts-blvd"
+    ],
+    "lineIds": [
+      "air-train"
+    ],
+    "_note": "Hand-crafted ID \u2014 AirTrain JFK is Port Authority-operated, outside MTA GTFS-RT coverage"
+  },
+  {
+    "id": "airtrain-howard-beach",
+    "name": "Howard Beach",
+    "latitude": 40.6604,
+    "longitude": -73.83014,
+    "stopIds": [
+      "airtrain-howard-beach"
+    ],
+    "lineIds": [
+      "air-train"
+    ],
+    "_note": "Hand-crafted ID \u2014 AirTrain JFK is Port Authority-operated, outside MTA GTFS-RT coverage"
+  },
+  {
+    "id": "airtrain-federal-circle",
+    "name": "Federal Circle",
+    "latitude": 40.64373,
+    "longitude": -73.78705,
+    "stopIds": [
+      "airtrain-federal-circle"
+    ],
+    "lineIds": [
+      "air-train"
+    ],
+    "_note": "Hand-crafted ID \u2014 AirTrain JFK is Port Authority-operated, outside MTA GTFS-RT coverage"
+  },
+  {
+    "id": "airtrain-jfk-terminal-1",
+    "name": "Terminal 1",
+    "latitude": 40.64238,
+    "longitude": -73.7818,
+    "stopIds": [
+      "airtrain-jfk-terminal-1"
+    ],
+    "lineIds": [
+      "air-train"
+    ],
+    "_note": "Hand-crafted ID \u2014 AirTrain JFK is Port Authority-operated, outside MTA GTFS-RT coverage"
+  },
+  {
+    "id": "airtrain-jfk-terminal-2",
+    "name": "Terminal 2",
+    "latitude": 40.64445,
+    "longitude": -73.78283,
+    "stopIds": [
+      "airtrain-jfk-terminal-2"
+    ],
+    "lineIds": [
+      "air-train"
+    ],
+    "_note": "Hand-crafted ID \u2014 AirTrain JFK is Port Authority-operated, outside MTA GTFS-RT coverage"
+  },
+  {
+    "id": "airtrain-jfk-terminal-4",
+    "name": "Terminal 4",
+    "latitude": 40.64313,
+    "longitude": -73.78007,
+    "stopIds": [
+      "airtrain-jfk-terminal-4"
+    ],
+    "lineIds": [
+      "air-train"
+    ],
+    "_note": "Hand-crafted ID \u2014 AirTrain JFK is Port Authority-operated, outside MTA GTFS-RT coverage"
+  },
+  {
+    "id": "airtrain-jfk-terminal-5",
+    "name": "Terminal 5",
+    "latitude": 40.64404,
+    "longitude": -73.78262,
+    "stopIds": [
+      "airtrain-jfk-terminal-5"
+    ],
+    "lineIds": [
+      "air-train"
+    ],
+    "_note": "Hand-crafted ID \u2014 AirTrain JFK is Port Authority-operated, outside MTA GTFS-RT coverage"
+  },
+  {
+    "id": "airtrain-jfk-terminal-7",
+    "name": "Terminal 7",
+    "latitude": 40.64146,
+    "longitude": -73.77852,
+    "stopIds": [
+      "airtrain-jfk-terminal-7"
+    ],
+    "lineIds": [
+      "air-train"
+    ],
+    "_note": "Hand-crafted ID \u2014 AirTrain JFK is Port Authority-operated, outside MTA GTFS-RT coverage"
+  },
+  {
+    "id": "airtrain-jfk-terminal-8",
+    "name": "Terminal 8",
+    "latitude": 40.64183,
+    "longitude": -73.77692,
+    "stopIds": [
+      "airtrain-jfk-terminal-8"
+    ],
+    "lineIds": [
+      "air-train"
+    ],
+    "_note": "Hand-crafted ID \u2014 AirTrain JFK is Port Authority-operated, outside MTA GTFS-RT coverage"
+  }
+]
