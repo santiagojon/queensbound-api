@@ -177,7 +177,8 @@
     "latitude": 40.746848,
     "longitude": -73.891394,
     "is_underground": false,
-    "stationId": "710"
+    "stationId": "710",
+    "complexId": "jackson-hts-roosevelt"
   },
   {
     "id": 12,
@@ -197,7 +198,8 @@
     "latitude": 40.746848,
     "longitude": -73.891394,
     "is_underground": true,
-    "stationId": "710"
+    "stationId": "710",
+    "complexId": "jackson-hts-roosevelt"
   },
   {
     "id": 8,
@@ -417,7 +419,8 @@
     "latitude": 40.750582,
     "longitude": -73.940202,
     "is_underground": true,
-    "stationId": "R09"
+    "stationId": "R09",
+    "complexId": "queensboro-plaza"
   },
   {
     "id": 21,
@@ -453,7 +456,8 @@
     "latitude": 40.747023,
     "longitude": -73.945264,
     "is_underground": true,
-    "stationId": "719"
+    "stationId": "719",
+    "complexId": "court-sq"
   },
   {
     "id": 24,
@@ -471,7 +475,8 @@
     "latitude": 40.750582,
     "longitude": -73.940202,
     "is_underground": true,
-    "stationId": "718"
+    "stationId": "718",
+    "complexId": "queensboro-plaza"
   },
   {
     "id": 25,
@@ -637,7 +642,8 @@
     "latitude": 40.750582,
     "longitude": -73.940202,
     "is_underground": true,
-    "stationId": "R09"
+    "stationId": "R09",
+    "complexId": "queensboro-plaza"
   },
   {
     "id": 34,
@@ -775,7 +781,8 @@
     "latitude": 40.746644,
     "longitude": -73.891338,
     "is_underground": true,
-    "stationId": "G14"
+    "stationId": "G14",
+    "complexId": "jackson-hts-roosevelt"
   },
   {
     "id": 41,
@@ -1013,7 +1020,8 @@
     "latitude": 40.746644,
     "longitude": -73.891338,
     "is_underground": true,
-    "stationId": "G14"
+    "stationId": "G14",
+    "complexId": "jackson-hts-roosevelt"
   },
   {
     "id": 54,
@@ -1353,7 +1361,8 @@
     "latitude": 40.746644,
     "longitude": -73.891338,
     "is_underground": true,
-    "stationId": "G14"
+    "stationId": "G14",
+    "complexId": "jackson-hts-roosevelt"
   },
   {
     "id": 74.5,
@@ -1525,7 +1534,8 @@
     "latitude": 40.746644,
     "longitude": -73.891338,
     "is_underground": true,
-    "stationId": "G14"
+    "stationId": "G14",
+    "complexId": "jackson-hts-roosevelt"
   },
   {
     "id": 82,
@@ -1563,7 +1573,8 @@
     "latitude": 40.746554,
     "longitude": -73.943832,
     "is_underground": true,
-    "stationId": "G22"
+    "stationId": "G22",
+    "complexId": "court-sq"
   },
   {
     "id": 84,
@@ -2211,7 +2222,8 @@
     "latitude": 40.746554,
     "longitude": -73.943832,
     "is_underground": true,
-    "stationId": "G22"
+    "stationId": "G22",
+    "complexId": "court-sq"
   },
   {
     "id": 119,
@@ -2539,7 +2551,8 @@
     "latitude": 40.746554,
     "longitude": -73.943832,
     "is_underground": true,
-    "stationId": "G22"
+    "stationId": "G22",
+    "complexId": "court-sq"
   },
   {
     "id": 137,
