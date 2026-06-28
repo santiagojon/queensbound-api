@@ -290,16 +290,6 @@
     "stationName": "36 St"
   },
   {
-    "stopId": "59",
-    "stationId": "G21",
-    "stationName": "Queens Plaza"
-  },
-  {
-    "stopId": "60",
-    "stationId": "G22",
-    "stationName": "Court Sq"
-  },
-  {
     "stopId": "61",
     "stationId": "M01",
     "stationName": "Middle Village-Metropolitan Av"
@@ -688,5 +678,15 @@
     "qb_name": "Terminal 8 - AirTrain",
     "flag": "NO_GTFS_MATCH",
     "note": "AirTrain JFK - not in MTA subway GTFS feed"
+  },
+  {
+    "stopId": "136",
+    "stationId": "G22",
+    "stationName": "Court Sq"
+  },
+  {
+    "stopId": "137",
+    "stationId": "G21",
+    "stationName": "Queens Plaza"
   }
 ]

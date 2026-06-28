@@ -889,7 +889,7 @@
     "id": 47,
     "name": "Forest Hills-71 Av - M",
     "svg_name": "Forest Hills-71 Av",
-    "line_order": 18,
+    "line_order": 17,
     "subway_lines": [
       {
         "id": 5,
@@ -907,7 +907,7 @@
     "id": 48,
     "name": "67 Av - M",
     "svg_name": "67 Av",
-    "line_order": 17,
+    "line_order": 16,
     "subway_lines": [
       {
         "id": 5,
@@ -925,7 +925,7 @@
     "id": 49,
     "name": "Rego Park-63 Dr - M",
     "svg_name": "Rego Park-63 Dr",
-    "line_order": 16,
+    "line_order": 15,
     "subway_lines": [
       {
         "id": 5,
@@ -943,7 +943,7 @@
     "id": 50,
     "name": "Woodhaven Blvd - M",
     "svg_name": "Woodhaven Blvd",
-    "line_order": 15,
+    "line_order": 14,
     "subway_lines": [
       {
         "id": 5,
@@ -961,7 +961,7 @@
     "id": 51,
     "name": "Grand Av-Newtown - M",
     "svg_name": "Grand Av-Newtown",
-    "line_order": 14,
+    "line_order": 13,
     "subway_lines": [
       {
         "id": 5,
@@ -979,7 +979,7 @@
     "id": 52,
     "name": "Elmhurst Av - M",
     "svg_name": "Elmhurst Av",
-    "line_order": 13,
+    "line_order": 12,
     "subway_lines": [
       {
         "id": 5,
@@ -999,7 +999,7 @@
     "id": 53,
     "name": "Jackson Hts-Roosevelt Av - M",
     "svg_name": "Jackson Hts-Roosevelt Av",
-    "line_order": 12,
+    "line_order": 11,
     "subway_lines": [
       {
         "id": 5,
@@ -1019,7 +1019,7 @@
     "id": 54,
     "name": "65 St - M",
     "svg_name": "65 St",
-    "line_order": 11,
+    "line_order": 10,
     "subway_lines": [
       {
         "id": 5,
@@ -1037,7 +1037,7 @@
     "id": 55,
     "name": "Northern Blvd - M",
     "svg_name": "Northern Blvd",
-    "line_order": 10,
+    "line_order": 9,
     "subway_lines": [
       {
         "id": 5,
@@ -1057,7 +1057,7 @@
     "id": 56,
     "name": "46 St - M",
     "svg_name": "46 St",
-    "line_order": 9,
+    "line_order": 8,
     "subway_lines": [
       {
         "id": 5,
@@ -1075,7 +1075,7 @@
     "id": 57,
     "name": "Steinway St - M",
     "svg_name": "Steinway St",
-    "line_order": 8,
+    "line_order": 7,
     "subway_lines": [
       {
         "id": 5,
@@ -1093,24 +1093,6 @@
     "id": 58,
     "name": "36 St - M",
     "svg_name": "36 St",
-    "line_order": 7,
-    "subway_lines": [
-      {
-        "id": 5,
-        "name": "M Line",
-        "color": "#ff6319"
-      }
-    ],
-    "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
-    "is_underground": true,
-    "stationId": "G20"
-  },
-  {
-    "id": 59,
-    "name": "Queens Plaza - M",
-    "svg_name": "Queens Plaza",
     "line_order": 6,
     "subway_lines": [
       {
@@ -1123,25 +1105,7 @@
     "latitude": "",
     "longitude": "",
     "is_underground": true,
-    "stationId": "G21"
-  },
-  {
-    "id": 60,
-    "name": "Court Sq - M",
-    "svg_name": "Court Sq",
-    "line_order": 5,
-    "subway_lines": [
-      {
-        "id": 5,
-        "name": "M Line",
-        "color": "#ff6319"
-      }
-    ],
-    "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
-    "is_underground": true,
-    "stationId": "G22"
+    "stationId": "G20"
   },
   {
     "id": 61,
@@ -1221,7 +1185,7 @@
     "id": 65,
     "name": "179 St - F",
     "svg_name": "179 St",
-    "line_order": 10,
+    "line_order": 11,
     "subway_lines": [
       {
         "id": 6,
@@ -1239,7 +1203,7 @@
     "id": 66,
     "name": "169 St - F",
     "svg_name": "169 St",
-    "line_order": 9,
+    "line_order": 10,
     "subway_lines": [
       {
         "id": 6,
@@ -1259,7 +1223,7 @@
     "id": 67,
     "name": "Parsons Blvd - F",
     "svg_name": "Parsons Blvd",
-    "line_order": 8,
+    "line_order": 9,
     "subway_lines": [
       {
         "id": 6,
@@ -1279,7 +1243,7 @@
     "id": 68,
     "name": "Sutphin Blvd-Archer Av - F",
     "svg_name": "Sutphin Blvd-Archer Av",
-    "line_order": 7,
+    "line_order": 8,
     "subway_lines": [
       {
         "id": 6,
@@ -1297,7 +1261,7 @@
     "id": 69,
     "name": "Briarwood - F",
     "svg_name": "Briarwood",
-    "line_order": 6,
+    "line_order": 7,
     "subway_lines": [
       {
         "id": 6,
@@ -1315,7 +1279,7 @@
     "id": 70,
     "name": "Kew Gardens-Union Tpke - F",
     "svg_name": "Kew Gardens-Union Tpke",
-    "line_order": 5,
+    "line_order": 6,
     "subway_lines": [
       {
         "id": 6,
@@ -1335,7 +1299,7 @@
     "id": 71,
     "name": "75 Av - F",
     "svg_name": "75 Av",
-    "line_order": 4,
+    "line_order": 5,
     "subway_lines": [
       {
         "id": 6,
@@ -1355,7 +1319,7 @@
     "id": 72,
     "name": "Forest Hills-71 Av - F",
     "svg_name": "Forest Hills-71 Av",
-    "line_order": 3,
+    "line_order": 4,
     "subway_lines": [
       {
         "id": 6,
@@ -1375,7 +1339,7 @@
     "id": 73,
     "name": "Jackson Hts-Roosevelt Av - F",
     "svg_name": "Jackson Hts-Roosevelt Av",
-    "line_order": 2,
+    "line_order": 3,
     "subway_lines": [
       {
         "id": 6,
@@ -1393,13 +1357,13 @@
   },
   {
     "id": 74.5,
-    "name": "21 St-Queensbridge - F",
+    "name": "21 St-Queensbridge - M",
     "svg_name": "21 St-Queensbridge",
-    "line_order": 1,
+    "line_order": 5,
     "subway_lines": [
       {
-        "id": 6,
-        "name": "F Line",
+        "id": 5,
+        "name": "M Line",
         "color": "#ff6319"
       }
     ],
@@ -2558,5 +2522,41 @@
     "longitude": "",
     "is_underground": true,
     "stationId": "airtrain-jfk-terminal-8"
+  },
+  {
+    "id": 136,
+    "name": "Court Sq-23 - F",
+    "svg_name": "Court Sq",
+    "line_order": 1,
+    "subway_lines": [
+      {
+        "id": 6,
+        "name": "F Line",
+        "color": "#ff6319"
+      }
+    ],
+    "artwork_ids": [],
+    "latitude": "",
+    "longitude": "",
+    "is_underground": true,
+    "stationId": "G22"
+  },
+  {
+    "id": 137,
+    "name": "Queens Plaza - F",
+    "svg_name": "Queens Plaza",
+    "line_order": 2,
+    "subway_lines": [
+      {
+        "id": 6,
+        "name": "F Line",
+        "color": "#ff6319"
+      }
+    ],
+    "artwork_ids": [],
+    "latitude": "",
+    "longitude": "",
+    "is_underground": true,
+    "stationId": "G21"
   }
 ]
