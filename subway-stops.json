@@ -14,8 +14,8 @@
     "artwork_ids": [
       5
     ],
-    "latitude": 40.7426324,
-    "longitude": -73.9535052,
+    "latitude": 40.742626,
+    "longitude": -73.953581,
     "is_underground": true,
     "stationId": "721"
   },
@@ -34,8 +34,8 @@
     "artwork_ids": [
       6
     ],
-    "latitude": 40.7424564,
-    "longitude": -73.9484489,
+    "latitude": 40.742216,
+    "longitude": -73.948916,
     "is_underground": true,
     "stationId": "720"
   },
@@ -54,8 +54,8 @@
     "artwork_ids": [
       7
     ],
-    "latitude": 40.744568,
-    "longitude": -73.9314574,
+    "latitude": 40.744587,
+    "longitude": -73.930997,
     "is_underground": true,
     "stationId": "716"
   },
@@ -74,8 +74,8 @@
     "artwork_ids": [
       8
     ],
-    "latitude": 40.7438128,
-    "longitude": -73.9243948,
+    "latitude": 40.743781,
+    "longitude": -73.924016,
     "is_underground": false,
     "stationId": "715"
   },
@@ -94,8 +94,8 @@
     "artwork_ids": [
       9
     ],
-    "latitude": 40.7430292,
-    "longitude": -73.9185007,
+    "latitude": 40.743132,
+    "longitude": -73.918435,
     "is_underground": false,
     "stationId": "714"
   },
@@ -114,8 +114,8 @@
     "artwork_ids": [
       10
     ],
-    "latitude": 40.7440788,
-    "longitude": -73.9125264,
+    "latitude": 40.744149,
+    "longitude": -73.912549,
     "is_underground": false,
     "stationId": "713"
   },
@@ -134,8 +134,8 @@
     "artwork_ids": [
       11
     ],
-    "latitude": 40.7455747,
-    "longitude": -73.9028312,
+    "latitude": 40.74563,
+    "longitude": -73.902984,
     "is_underground": false,
     "stationId": "712"
   },
@@ -154,8 +154,8 @@
     "artwork_ids": [
       12
     ],
-    "latitude": 40.7462404,
-    "longitude": -73.8962105,
+    "latitude": 40.746325,
+    "longitude": -73.896403,
     "is_underground": false,
     "stationId": "711"
   },
@@ -174,8 +174,8 @@
     "artwork_ids": [
       4
     ],
-    "latitude": 40.7467573,
-    "longitude": -73.8912129,
+    "latitude": 40.746848,
+    "longitude": -73.891394,
     "is_underground": false,
     "stationId": "710"
   },
@@ -194,8 +194,8 @@
     "artwork_ids": [
       4
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.746848,
+    "longitude": -73.891394,
     "is_underground": true,
     "stationId": "710"
   },
@@ -214,8 +214,8 @@
     "artwork_ids": [
       13
     ],
-    "latitude": 40.7476253,
-    "longitude": -73.883973,
+    "latitude": 40.747659,
+    "longitude": -73.883697,
     "is_underground": false,
     "stationId": "709"
   },
@@ -234,8 +234,8 @@
     "artwork_ids": [
       14
     ],
-    "latitude": 40.7483893,
-    "longitude": -73.8765308,
+    "latitude": 40.748408,
+    "longitude": -73.876613,
     "is_underground": false,
     "stationId": "708"
   },
@@ -254,8 +254,8 @@
     "artwork_ids": [
       15
     ],
-    "latitude": 40.7491549,
-    "longitude": -73.8694384,
+    "latitude": 40.749145,
+    "longitude": -73.869527,
     "is_underground": false,
     "stationId": "707"
   },
@@ -274,8 +274,8 @@
     "artwork_ids": [
       16
     ],
-    "latitude": 40.7498643,
-    "longitude": -73.8627674,
+    "latitude": 40.749865,
+    "longitude": -73.8627,
     "is_underground": false,
     "stationId": "706"
   },
@@ -294,8 +294,8 @@
     "artwork_ids": [
       17
     ],
-    "latitude": 40.7544642,
-    "longitude": -73.8458246,
+    "latitude": 40.754622,
+    "longitude": -73.845625,
     "is_underground": false,
     "stationId": "702"
   },
@@ -314,8 +314,8 @@
     "artwork_ids": [
       18
     ],
-    "latitude": 40.7595379,
-    "longitude": -73.8300974,
+    "latitude": 40.7596,
+    "longitude": -73.83003,
     "is_underground": false,
     "stationId": "701"
   },
@@ -334,8 +334,8 @@
     "artwork_ids": [
       35
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.766779,
+    "longitude": -73.921479,
     "is_underground": true,
     "stationId": "R04"
   },
@@ -354,8 +354,8 @@
     "artwork_ids": [
       3
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.756804,
+    "longitude": -73.929575,
     "is_underground": true,
     "stationId": "R06"
   },
@@ -374,8 +374,8 @@
     "artwork_ids": [
       36
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.752882,
+    "longitude": -73.932755,
     "is_underground": true,
     "stationId": "R08"
   },
@@ -394,8 +394,8 @@
     "artwork_ids": [
       37
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.76182,
+    "longitude": -73.925508,
     "is_underground": true,
     "stationId": "R05"
   },
@@ -414,8 +414,8 @@
     "artwork_ids": [
       38
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.750582,
+    "longitude": -73.940202,
     "is_underground": true,
     "stationId": "R09"
   },
@@ -432,8 +432,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.75173,
+    "longitude": -73.855334,
     "is_underground": true,
     "stationId": "705"
   },
@@ -450,8 +450,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.747023,
+    "longitude": -73.945264,
     "is_underground": true,
     "stationId": "719"
   },
@@ -468,8 +468,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.750582,
+    "longitude": -73.940202,
     "is_underground": true,
     "stationId": "718"
   },
@@ -486,8 +486,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.775036,
+    "longitude": -73.912034,
     "is_underground": true,
     "stationId": "R01"
   },
@@ -506,8 +506,8 @@
     "artwork_ids": [
       27
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.770258,
+    "longitude": -73.917843,
     "is_underground": true,
     "stationId": "R03"
   },
@@ -524,8 +524,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.775036,
+    "longitude": -73.912034,
     "is_underground": true,
     "stationId": "R01"
   },
@@ -542,8 +542,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.770258,
+    "longitude": -73.917843,
     "is_underground": true,
     "stationId": "R03"
   },
@@ -560,8 +560,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.766779,
+    "longitude": -73.921479,
     "is_underground": true,
     "stationId": "R04"
   },
@@ -578,8 +578,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.76182,
+    "longitude": -73.925508,
     "is_underground": true,
     "stationId": "R05"
   },
@@ -598,8 +598,8 @@
     "artwork_ids": [
       39
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.756804,
+    "longitude": -73.929575,
     "is_underground": true,
     "stationId": "R06"
   },
@@ -616,8 +616,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.752882,
+    "longitude": -73.932755,
     "is_underground": true,
     "stationId": "R08"
   },
@@ -634,8 +634,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.750582,
+    "longitude": -73.940202,
     "is_underground": true,
     "stationId": "R09"
   },
@@ -654,8 +654,8 @@
     "artwork_ids": [
       48
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.721691,
+    "longitude": -73.844521,
     "is_underground": true,
     "stationId": "G08"
   },
@@ -672,8 +672,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.726523,
+    "longitude": -73.852719,
     "is_underground": true,
     "stationId": "G09"
   },
@@ -692,8 +692,8 @@
     "artwork_ids": [
       51
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.729846,
+    "longitude": -73.861604,
     "is_underground": true,
     "stationId": "G10"
   },
@@ -712,8 +712,8 @@
     "artwork_ids": [
       52
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.733106,
+    "longitude": -73.869229,
     "is_underground": true,
     "stationId": "G11"
   },
@@ -732,8 +732,8 @@
     "artwork_ids": [
       49
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.737015,
+    "longitude": -73.877223,
     "is_underground": true,
     "stationId": "G12"
   },
@@ -752,8 +752,8 @@
     "artwork_ids": [
       47
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.742454,
+    "longitude": -73.882017,
     "is_underground": true,
     "stationId": "G13"
   },
@@ -772,8 +772,8 @@
     "artwork_ids": [
       50
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.746644,
+    "longitude": -73.891338,
     "is_underground": true,
     "stationId": "G14"
   },
@@ -790,8 +790,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.749669,
+    "longitude": -73.898453,
     "is_underground": true,
     "stationId": "G15"
   },
@@ -808,8 +808,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.752885,
+    "longitude": -73.906006,
     "is_underground": true,
     "stationId": "G16"
   },
@@ -826,8 +826,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.756312,
+    "longitude": -73.913333,
     "is_underground": true,
     "stationId": "G18"
   },
@@ -844,8 +844,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.756879,
+    "longitude": -73.92074,
     "is_underground": true,
     "stationId": "G19"
   },
@@ -862,8 +862,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.752039,
+    "longitude": -73.928781,
     "is_underground": true,
     "stationId": "G20"
   },
@@ -880,8 +880,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.748973,
+    "longitude": -73.937243,
     "is_underground": true,
     "stationId": "G21"
   },
@@ -898,8 +898,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.721691,
+    "longitude": -73.844521,
     "is_underground": true,
     "stationId": "G08"
   },
@@ -916,8 +916,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.726523,
+    "longitude": -73.852719,
     "is_underground": true,
     "stationId": "G09"
   },
@@ -934,8 +934,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.729846,
+    "longitude": -73.861604,
     "is_underground": true,
     "stationId": "G10"
   },
@@ -952,8 +952,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.733106,
+    "longitude": -73.869229,
     "is_underground": true,
     "stationId": "G11"
   },
@@ -970,8 +970,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.737015,
+    "longitude": -73.877223,
     "is_underground": true,
     "stationId": "G12"
   },
@@ -990,8 +990,8 @@
     "artwork_ids": [
       41
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.742454,
+    "longitude": -73.882017,
     "is_underground": true,
     "stationId": "G13"
   },
@@ -1010,8 +1010,8 @@
     "artwork_ids": [
       43
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.746644,
+    "longitude": -73.891338,
     "is_underground": true,
     "stationId": "G14"
   },
@@ -1028,8 +1028,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.749669,
+    "longitude": -73.898453,
     "is_underground": true,
     "stationId": "G15"
   },
@@ -1048,8 +1048,8 @@
     "artwork_ids": [
       46
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.752885,
+    "longitude": -73.906006,
     "is_underground": true,
     "stationId": "G16"
   },
@@ -1066,8 +1066,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.756312,
+    "longitude": -73.913333,
     "is_underground": true,
     "stationId": "G18"
   },
@@ -1084,8 +1084,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.756879,
+    "longitude": -73.92074,
     "is_underground": true,
     "stationId": "G19"
   },
@@ -1102,8 +1102,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.752039,
+    "longitude": -73.928781,
     "is_underground": true,
     "stationId": "G20"
   },
@@ -1120,8 +1120,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.711396,
+    "longitude": -73.889601,
     "is_underground": true,
     "stationId": "M01"
   },
@@ -1140,8 +1140,8 @@
     "artwork_ids": [
       42
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.704423,
+    "longitude": -73.903077,
     "is_underground": true,
     "stationId": "M05"
   },
@@ -1158,8 +1158,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.706186,
+    "longitude": -73.895877,
     "is_underground": true,
     "stationId": "M04"
   },
@@ -1176,8 +1176,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.702762,
+    "longitude": -73.90774,
     "is_underground": true,
     "stationId": "M06"
   },
@@ -1194,8 +1194,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": 40.7126971,
-    "longitude": -73.7835759,
+    "latitude": 40.712646,
+    "longitude": -73.783817,
     "is_underground": true,
     "stationId": "F01"
   },
@@ -1214,8 +1214,8 @@
     "artwork_ids": [
       24
     ],
-    "latitude": 40.7103725,
-    "longitude": -73.7939563,
+    "latitude": 40.71047,
+    "longitude": -73.793604,
     "is_underground": true,
     "stationId": "F02"
   },
@@ -1234,8 +1234,8 @@
     "artwork_ids": [
       23
     ],
-    "latitude": 40.7074805,
-    "longitude": -73.8036173,
+    "latitude": 40.707564,
+    "longitude": -73.803326,
     "is_underground": true,
     "stationId": "F03"
   },
@@ -1252,8 +1252,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": 40.7054637,
-    "longitude": -73.8105984,
+    "latitude": 40.70546,
+    "longitude": -73.810708,
     "is_underground": true,
     "stationId": "F04"
   },
@@ -1270,8 +1270,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": 40.7087083,
-    "longitude": -73.8199852,
+    "latitude": 40.709179,
+    "longitude": -73.820574,
     "is_underground": true,
     "stationId": "F05"
   },
@@ -1290,8 +1290,8 @@
     "artwork_ids": [
       22
     ],
-    "latitude": 40.7141868,
-    "longitude": -73.8310905,
+    "latitude": 40.714441,
+    "longitude": -73.831008,
     "is_underground": true,
     "stationId": "F06"
   },
@@ -1310,8 +1310,8 @@
     "artwork_ids": [
       21
     ],
-    "latitude": 40.7184304,
-    "longitude": -73.8371674,
+    "latitude": 40.718331,
+    "longitude": -73.837324,
     "is_underground": true,
     "stationId": "F07"
   },
@@ -1330,8 +1330,8 @@
     "artwork_ids": [
       2
     ],
-    "latitude": 40.7214774,
-    "longitude": -73.844688,
+    "latitude": 40.721691,
+    "longitude": -73.844521,
     "is_underground": true,
     "stationId": "G08"
   },
@@ -1350,8 +1350,8 @@
     "artwork_ids": [
       20
     ],
-    "latitude": 40.7467573,
-    "longitude": -73.8912129,
+    "latitude": 40.746644,
+    "longitude": -73.891338,
     "is_underground": true,
     "stationId": "G14"
   },
@@ -1370,8 +1370,8 @@
     "artwork_ids": [
       19
     ],
-    "latitude": 40.754087,
-    "longitude": -73.942296,
+    "latitude": 40.754203,
+    "longitude": -73.942836,
     "is_underground": true,
     "stationId": "B04"
   },
@@ -1390,8 +1390,8 @@
     "artwork_ids": [
       56
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.707564,
+    "longitude": -73.803326,
     "is_underground": true,
     "stationId": "F03"
   },
@@ -1410,8 +1410,8 @@
     "artwork_ids": [
       1
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.700486,
+    "longitude": -73.807969,
     "is_underground": true,
     "stationId": "G06"
   },
@@ -1428,8 +1428,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.702566,
+    "longitude": -73.816859,
     "is_underground": true,
     "stationId": "G07"
   },
@@ -1446,8 +1446,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.709179,
+    "longitude": -73.820574,
     "is_underground": true,
     "stationId": "F05"
   },
@@ -1466,8 +1466,8 @@
     "artwork_ids": [
       55
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.714441,
+    "longitude": -73.831008,
     "is_underground": true,
     "stationId": "F06"
   },
@@ -1484,8 +1484,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.718331,
+    "longitude": -73.837324,
     "is_underground": true,
     "stationId": "F07"
   },
@@ -1502,8 +1502,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.721691,
+    "longitude": -73.844521,
     "is_underground": true,
     "stationId": "G08"
   },
@@ -1522,8 +1522,8 @@
     "artwork_ids": [
       45
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.746644,
+    "longitude": -73.891338,
     "is_underground": true,
     "stationId": "G14"
   },
@@ -1542,8 +1542,8 @@
     "artwork_ids": [
       57
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.748973,
+    "longitude": -73.937243,
     "is_underground": true,
     "stationId": "G21"
   },
@@ -1560,8 +1560,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.746554,
+    "longitude": -73.943832,
     "is_underground": true,
     "stationId": "G22"
   },
@@ -1580,8 +1580,8 @@
     "artwork_ids": [
       33
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.603995,
+    "longitude": -73.755405,
     "is_underground": true,
     "stationId": "H11"
   },
@@ -1600,8 +1600,8 @@
     "artwork_ids": [
       31
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.600066,
+    "longitude": -73.761353,
     "is_underground": true,
     "stationId": "H10"
   },
@@ -1618,8 +1618,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.595398,
+    "longitude": -73.768175,
     "is_underground": true,
     "stationId": "H09"
   },
@@ -1636,8 +1636,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.592943,
+    "longitude": -73.776013,
     "is_underground": true,
     "stationId": "H08"
   },
@@ -1654,8 +1654,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.592374,
+    "longitude": -73.788522,
     "is_underground": true,
     "stationId": "H07"
   },
@@ -1672,8 +1672,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.590927,
+    "longitude": -73.796924,
     "is_underground": true,
     "stationId": "H06"
   },
@@ -1690,8 +1690,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.588034,
+    "longitude": -73.813641,
     "is_underground": true,
     "stationId": "H12"
   },
@@ -1710,8 +1710,8 @@
     "artwork_ids": [
       32
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.585307,
+    "longitude": -73.820558,
     "is_underground": true,
     "stationId": "H13"
   },
@@ -1728,8 +1728,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.583209,
+    "longitude": -73.827559,
     "is_underground": true,
     "stationId": "H14"
   },
@@ -1746,8 +1746,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.580903,
+    "longitude": -73.835592,
     "is_underground": true,
     "stationId": "H15"
   },
@@ -1764,8 +1764,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.608382,
+    "longitude": -73.815925,
     "is_underground": true,
     "stationId": "H04"
   },
@@ -1782,8 +1782,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.660476,
+    "longitude": -73.830301,
     "is_underground": true,
     "stationId": "H03"
   },
@@ -1800,8 +1800,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.672097,
+    "longitude": -73.835919,
     "is_underground": true,
     "stationId": "H01"
   },
@@ -1818,8 +1818,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.668234,
+    "longitude": -73.834058,
     "is_underground": true,
     "stationId": "H02"
   },
@@ -1838,8 +1838,8 @@
     "artwork_ids": [
       34
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.680429,
+    "longitude": -73.843853,
     "is_underground": true,
     "stationId": "A61"
   },
@@ -1858,8 +1858,8 @@
     "artwork_ids": [
       30
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.679843,
+    "longitude": -73.85147,
     "is_underground": true,
     "stationId": "A60"
   },
@@ -1878,8 +1878,8 @@
     "artwork_ids": [
       29
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.684331,
+    "longitude": -73.832163,
     "is_underground": true,
     "stationId": "A64"
   },
@@ -1896,8 +1896,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.681711,
+    "longitude": -73.837683,
     "is_underground": true,
     "stationId": "A63"
   },
@@ -1914,8 +1914,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.679371,
+    "longitude": -73.858992,
     "is_underground": true,
     "stationId": "A59"
   },
@@ -1932,8 +1932,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.685951,
+    "longitude": -73.825798,
     "is_underground": true,
     "stationId": "A65"
   },
@@ -1950,8 +1950,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.702147,
+    "longitude": -73.801109,
     "is_underground": true,
     "stationId": "G05"
   },
@@ -1968,8 +1968,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.70546,
+    "longitude": -73.810708,
     "is_underground": true,
     "stationId": "F04"
   },
@@ -1988,8 +1988,8 @@
     "artwork_ids": [
       26
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.700492,
+    "longitude": -73.828294,
     "is_underground": true,
     "stationId": "J12"
   },
@@ -2006,8 +2006,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.697418,
+    "longitude": -73.836345,
     "is_underground": true,
     "stationId": "J13"
   },
@@ -2026,8 +2026,8 @@
     "artwork_ids": [
       25
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.695178,
+    "longitude": -73.84433,
     "is_underground": true,
     "stationId": "J14"
   },
@@ -2046,8 +2046,8 @@
     "artwork_ids": [
       28
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.693879,
+    "longitude": -73.851576,
     "is_underground": true,
     "stationId": "J15"
   },
@@ -2064,8 +2064,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.692435,
+    "longitude": -73.86001,
     "is_underground": true,
     "stationId": "J16"
   },
@@ -2082,8 +2082,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.691324,
+    "longitude": -73.867139,
     "is_underground": true,
     "stationId": "J17"
   },
@@ -2100,8 +2100,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.707564,
+    "longitude": -73.803326,
     "is_underground": true,
     "stationId": "F03"
   },
@@ -2118,8 +2118,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.70546,
+    "longitude": -73.810708,
     "is_underground": true,
     "stationId": "F04"
   },
@@ -2136,8 +2136,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.700492,
+    "longitude": -73.828294,
     "is_underground": true,
     "stationId": "J12"
   },
@@ -2154,8 +2154,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.695178,
+    "longitude": -73.84433,
     "is_underground": true,
     "stationId": "J14"
   },
@@ -2172,8 +2172,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.693879,
+    "longitude": -73.851576,
     "is_underground": true,
     "stationId": "J15"
   },
@@ -2190,8 +2190,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.691324,
+    "longitude": -73.867139,
     "is_underground": true,
     "stationId": "J17"
   },
@@ -2208,8 +2208,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.746554,
+    "longitude": -73.943832,
     "is_underground": true,
     "stationId": "G22"
   },
@@ -2226,8 +2226,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.744065,
+    "longitude": -73.949724,
     "is_underground": true,
     "stationId": "G24"
   },
@@ -2244,8 +2244,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.742626,
+    "longitude": -73.953581,
     "is_underground": true,
     "stationId": "721"
   },
@@ -2262,8 +2262,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.580903,
+    "longitude": -73.835592,
     "is_underground": true,
     "stationId": "H15"
   },
@@ -2280,8 +2280,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.583209,
+    "longitude": -73.827559,
     "is_underground": true,
     "stationId": "H14"
   },
@@ -2298,8 +2298,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.585307,
+    "longitude": -73.820558,
     "is_underground": true,
     "stationId": "H13"
   },
@@ -2316,8 +2316,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.588034,
+    "longitude": -73.813641,
     "is_underground": true,
     "stationId": "H12"
   },
@@ -2334,8 +2334,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.608382,
+    "longitude": -73.815925,
     "is_underground": true,
     "stationId": "H04"
   },
@@ -2536,8 +2536,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.746554,
+    "longitude": -73.943832,
     "is_underground": true,
     "stationId": "G22"
   },
@@ -2554,8 +2554,8 @@
       }
     ],
     "artwork_ids": [],
-    "latitude": "",
-    "longitude": "",
+    "latitude": 40.748973,
+    "longitude": -73.937243,
     "is_underground": true,
     "stationId": "G21"
   }
