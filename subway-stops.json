@@ -3,7 +3,7 @@
     "id": 14,
     "name": "Vernon Blvd - 7",
     "svg_name": null,
-    "line_order": 3,
+    "line_order": 1,
     "subway_lines": [
       {
         "id": 1,
@@ -23,7 +23,7 @@
     "id": 11,
     "name": "Hunters Point - 7",
     "svg_name": "Hunters Point Av",
-    "line_order": 4,
+    "line_order": 2,
     "subway_lines": [
       {
         "id": 1,
@@ -177,27 +177,6 @@
     "latitude": 40.746848,
     "longitude": -73.891394,
     "is_underground": false,
-    "stationId": "710",
-    "complexId": "jackson-hts-roosevelt"
-  },
-  {
-    "id": 12,
-    "name": "Jackson Heights/Roosevelt Avenue - 7",
-    "svg_name": null,
-    "line_order": 12,
-    "subway_lines": [
-      {
-        "id": 1,
-        "name": "7 Line",
-        "color": "#b934ad"
-      }
-    ],
-    "artwork_ids": [
-      4
-    ],
-    "latitude": 40.746848,
-    "longitude": -73.891394,
-    "is_underground": true,
     "stationId": "710",
     "complexId": "jackson-hts-roosevelt"
   },
@@ -444,7 +423,7 @@
     "id": 23,
     "name": "Court Sq - 7",
     "svg_name": "Court Sq",
-    "line_order": 1,
+    "line_order": 3,
     "subway_lines": [
       {
         "id": 1,
@@ -463,7 +442,7 @@
     "id": 24,
     "name": "Queensboro Plaza - 7",
     "svg_name": "Queensboro Plaza",
-    "line_order": 2,
+    "line_order": 4,
     "subway_lines": [
       {
         "id": 1,
